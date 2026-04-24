@@ -18,8 +18,6 @@
       @keyframes twinkle   { 0%,100%{opacity:.2} 50%{opacity:1} }
       @keyframes leoGlow   { 0%,100%{opacity:.5} 50%{opacity:1} }
       @keyframes lineFlash { 0%,100%{opacity:.15} 50%{opacity:.55} }
-      @keyframes coinBob   { 0%,100%{transform:translateY(0)} 50%{transform:translateY(-7px)} }
-      @keyframes coinBob2  { 0%,100%{transform:translateY(0)} 50%{transform:translateY(-5px)} }
       @keyframes titlePulse{
         0%,100%{filter:drop-shadow(0 0 5px #c9a227)}
         50%    {filter:drop-shadow(0 0 18px #ffd700) drop-shadow(0 0 30px #ffa500)}
@@ -29,11 +27,6 @@
       .leo-line { animation:lineFlash 2.5s infinite }
       .leo-s    { animation:leoGlow  2.5s infinite }
       .regulus  { animation:leoGlow  1.8s infinite }
-      .c1{animation:coinBob  2.4s ease-in-out infinite}
-      .c2{animation:coinBob2 3s   ease-in-out infinite .4s}
-      .c3{animation:coinBob  2.8s ease-in-out infinite .8s}
-      .c4{animation:coinBob2 3.2s ease-in-out infinite 1.2s}
-      .c5{animation:coinBob  2.6s ease-in-out infinite .6s}
       .title   { animation:titlePulse 3s ease-in-out infinite }
       .subtitle{ animation:subFade    4s ease-in-out infinite }
     </style>
