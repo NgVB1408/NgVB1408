@@ -18,7 +18,7 @@
 
 <div align="center">
 
-🇻🇳 Vietnam &nbsp;·&nbsp; Solo Full-Stack Developer
+🇻🇳 Vietnam &nbsp;·&nbsp; Solo Full-Stack Developer &nbsp;·&nbsp; Frontend · Backend · DevOps
 
 *Ý tưởng → thiết kế → code → deploy → production — một mình.*  
 *Idea → design → code → deploy → production — solo.*
