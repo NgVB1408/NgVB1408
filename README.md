@@ -117,21 +117,6 @@ developer = {
 
 ---
 
-## 🚀 Dự án nổi bật / Featured Projects
-
-<div align="center">
-
-| Dự án / Project | Mô tả / Description | Stack |
-|-----------------|---------------------|-------|
-| 🕷 **WebLogic Crawler** | Công cụ phân tích cấu trúc website — BFS crawl, DevTools inspector, security audit, deploy noVNC<br/>*Professional website structure analyzer with BFS crawl & DevTools-style inspector* | Python · PyQt5 · Docker |
-| 🎨 **Theme Generator** | Tạo theme tự động từ phân tích từ khóa và nội dung<br/>*Auto-generate themes from keyword & content analysis* | Node.js |
-| 🔍 **Google Traffic Bot** | Mô phỏng traffic tự nhiên tự động<br/>*Automated organic traffic simulation* | Python |
-| 🏗 **NexaSource Portal** | Cổng quản lý mã nguồn web<br/>*Web portal for source management* | — |
-
-</div>
-
----
-
 ## 📊 Thống kê / GitHub Stats
 
 <div align="center">
