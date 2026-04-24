@@ -6,8 +6,6 @@
 
 <div align="center">
 
-**Leo ♌ &nbsp;·&nbsp; Tân Tỵ 🐍 &nbsp;·&nbsp; Bạch Lạp Kim &nbsp;·&nbsp; 🇻🇳**
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=C9A227&center=true&vCenter=true&width=700&lines=Python+%7C+Node.js+%7C+Docker+%7C+AI;Automation+%7C+Security+%7C+Full-Stack;Hoc%2C+hoc+nua%2C+hoc+mai.)](https://git.io/typing-svg)
 
 </div>
