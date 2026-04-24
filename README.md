@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=388BFD&center=true&vCenter=true&width=650&lines=Xây+dựng+công+cụ+thực+sự+hoạt+động.;Building+tools+that+actually+work.;Python+%7C+PyQt5+%7C+Web+Automation;Crawling+%7C+Data+Analysis+%7C+AI;Luôn+học%2C+luôn+ship.+%2F+Always+learning%2C+always+shipping.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=388BFD&center=true&vCenter=true&width=650&lines=Python+%7C+PyQt5+%7C+Node.js+%7C+Docker;Automation+%7C+AI+%7C+Security;Học%2C+học+nữa%2C+học+mãi.)](https://git.io/typing-svg)
 
 </div>
 
@@ -19,8 +19,8 @@
 <div align="center">
 
 🇻🇳 Vietnam &nbsp;·&nbsp; Python / PyQt5 / Node.js / Docker &nbsp;·&nbsp; Automation · AI · Security  
-*Xây công cụ. Giải quyết vấn đề. Không giải thích thêm.*  
-*Build tools. Solve problems. No further explanation needed.*
+*Tự động hóa. Bảo mật. AI. Không giải thích thêm.*  
+*Automation. Security. AI. No further explanation needed.*
 
 </div>
 
