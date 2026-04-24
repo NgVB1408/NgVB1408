@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=388BFD&center=true&vCenter=true&width=650&lines=Xây+dựng+công+cụ+thực+sự+hoạt+động.;Building+tools+that+actually+work.;Python+%7C+PyQt5+%7C+Web+Automation;SEO+%7C+Crawling+%7C+Data+Analysis;Luôn+học%2C+luôn+ship.+%2F+Always+learning%2C+always+shipping.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=388BFD&center=true&vCenter=true&width=650&lines=Xây+dựng+công+cụ+thực+sự+hoạt+động.;Building+tools+that+actually+work.;Python+%7C+PyQt5+%7C+Web+Automation;Crawling+%7C+Data+Analysis+%7C+AI;Luôn+học%2C+luôn+ship.+%2F+Always+learning%2C+always+shipping.)](https://git.io/typing-svg)
 
 </div>
 
@@ -21,7 +21,7 @@ developer = {
     "name"      : "Vinny Nguyen",
     "location"  : "Vietnam 🇻🇳",
     "languages" : ["Tiếng Việt 🇻🇳", "English 🇺🇸"],
-    "focus"     : ["Web Crawling", "SEO Tools", "Desktop GUI", "Automation"],
+    "focus"     : ["Web Crawling", "Desktop GUI", "Automation", "AI Tools"],
     "stack"     : ["Python", "PyQt5", "Node.js", "Docker"],
     "currently" : "WebLogic Crawler — công cụ phân tích website chuyên nghiệp",
     "mindset"   : "Ship nhanh. Lặp lại. Làm cho nó chạy, rồi làm cho nó đúng.",
@@ -104,8 +104,8 @@ developer = {
 
 | Dự án / Project | Mô tả / Description | Stack |
 |-----------------|---------------------|-------|
-| 🕷 **WebLogic Crawler** | Công cụ phân tích website chuyên nghiệp — BFS crawl, SEO audit, DevTools inspector, deploy noVNC<br/>*Professional website analyzer with BFS crawl, SEO audit & DevTools-style inspector* | Python · PyQt5 · Docker |
-| 🎨 **SEO Theme Generator** | Tạo theme tối ưu SEO từ phân tích từ khóa<br/>*Generate SEO-optimized themes from keyword analysis* | Node.js |
+| 🕷 **WebLogic Crawler** | Công cụ phân tích cấu trúc website — BFS crawl, DevTools inspector, security audit, deploy noVNC<br/>*Professional website structure analyzer with BFS crawl & DevTools-style inspector* | Python · PyQt5 · Docker |
+| 🎨 **Theme Generator** | Tạo theme tự động từ phân tích từ khóa và nội dung<br/>*Auto-generate themes from keyword & content analysis* | Node.js |
 | 🔍 **Google Traffic Bot** | Mô phỏng traffic tự nhiên tự động<br/>*Automated organic traffic simulation* | Python |
 | 🏗 **NexaSource Portal** | Cổng quản lý mã nguồn web<br/>*Web portal for source management* | — |
 
