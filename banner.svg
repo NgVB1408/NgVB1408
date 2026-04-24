@@ -15,17 +15,17 @@
       <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
     <style>
-      @keyframes twinkle  { 0%,100%{opacity:.2} 50%{opacity:1} }
-      @keyframes leoGlow  { 0%,100%{opacity:.6} 50%{opacity:1} }
-      @keyframes lineFlash{ 0%,100%{opacity:.15} 50%{opacity:.5} }
-      @keyframes coinBob  { 0%,100%{transform:translateY(0)} 50%{transform:translateY(-7px)} }
-      @keyframes coinBob2 { 0%,100%{transform:translateY(0)} 50%{transform:translateY(-5px)} }
+      @keyframes twinkle   { 0%,100%{opacity:.2} 50%{opacity:1} }
+      @keyframes leoGlow   { 0%,100%{opacity:.5} 50%{opacity:1} }
+      @keyframes lineFlash { 0%,100%{opacity:.15} 50%{opacity:.55} }
+      @keyframes coinBob   { 0%,100%{transform:translateY(0)} 50%{transform:translateY(-7px)} }
+      @keyframes coinBob2  { 0%,100%{transform:translateY(0)} 50%{transform:translateY(-5px)} }
       @keyframes titlePulse{
         0%,100%{filter:drop-shadow(0 0 5px #c9a227)}
-        50%{filter:drop-shadow(0 0 18px #ffd700) drop-shadow(0 0 30px #ffa500)}
+        50%    {filter:drop-shadow(0 0 18px #ffd700) drop-shadow(0 0 30px #ffa500)}
       }
-      @keyframes subFade  { 0%,100%{opacity:.8} 50%{opacity:1} }
-      .bg-star  { animation:twinkle  3s infinite }
+      @keyframes subFade   { 0%,100%{opacity:.8} 50%{opacity:1} }
+      .bg-star  { animation:twinkle   3s infinite }
       .leo-line { animation:lineFlash 2.5s infinite }
       .leo-s    { animation:leoGlow  2.5s infinite }
       .regulus  { animation:leoGlow  1.8s infinite }
@@ -34,16 +34,18 @@
       .c3{animation:coinBob  2.8s ease-in-out infinite .8s}
       .c4{animation:coinBob2 3.2s ease-in-out infinite 1.2s}
       .c5{animation:coinBob  2.6s ease-in-out infinite .6s}
-      .title    { animation:titlePulse 3s ease-in-out infinite }
-      .subtitle { animation:subFade    4s ease-in-out infinite }
+      .title   { animation:titlePulse 3s ease-in-out infinite }
+      .subtitle{ animation:subFade    4s ease-in-out infinite }
     </style>
   </defs>
 
   <!-- Background -->
   <rect width="900" height="280" fill="url(#bgGrad)"/>
-  <!-- Wave bottom -->
-  <path d="M0,242 Q150,222 300,240 Q450,258 600,238 Q750,220 900,237 L900,280 L0,280Z" fill="#0d1117" opacity=".5"/>
-  <path d="M0,257 Q200,240 400,255 Q600,268 900,252 L900,280 L0,280Z" fill="#0d1117" opacity=".7"/>
+  <!-- Wave hills at bottom -->
+  <ellipse cx="200" cy="290" rx="280" ry="60" fill="#0d1117" opacity=".55"/>
+  <ellipse cx="700" cy="295" rx="320" ry="65" fill="#0d1117" opacity=".45"/>
+  <path d="M0,248 Q150,228 300,246 Q450,264 600,244 Q750,226 900,243 L900,280 L0,280Z" fill="#0d1117" opacity=".6"/>
+  <path d="M0,260 Q200,244 400,258 Q600,272 900,256 L900,280 L0,280Z" fill="#0d1117" opacity=".75"/>
 
   <!-- Background stars -->
   <circle class="bg-star" cx="30"  cy="18"  r="1.2" fill="white" style="animation-delay:.0s"/>
@@ -63,158 +65,88 @@
   <circle class="bg-star" cx="870" cy="35"  r="1.5" fill="white" style="animation-delay:1.6s"/>
   <circle class="bg-star" cx="50"  cy="60"  r="1"   fill="white" style="animation-delay:2s"/>
   <circle class="bg-star" cx="160" cy="65"  r="1.2" fill="white" style="animation-delay:.1s"/>
-  <circle class="bg-star" cx="295" cy="68"  r="1"   fill="white" style="animation-delay:1.4s"/>
   <circle class="bg-star" cx="430" cy="72"  r="1.3" fill="white" style="animation-delay:.7s"/>
   <circle class="bg-star" cx="555" cy="60"  r="1"   fill="white" style="animation-delay:2.2s"/>
+  <circle class="bg-star" cx="760" cy="58"  r="1.2" fill="white" style="animation-delay:1.9s"/>
 
-  <!-- LEO Constellation -->
+  <!-- LEO Constellation top-left -->
   <g filter="url(#glow)">
-    <line class="leo-line" x1="88"  y1="175" x2="88"  y2="152" stroke="#ffd700" stroke-width="1.2"/>
-    <line class="leo-line" x1="88"  y1="152" x2="102" y2="132" stroke="#ffd700" stroke-width="1.2"/>
-    <line class="leo-line" x1="102" y1="132" x2="112" y2="108" stroke="#ffd700" stroke-width="1.2"/>
-    <line class="leo-line" x1="112" y1="108" x2="102" y2="84"  stroke="#ffd700" stroke-width="1.2"/>
-    <line class="leo-line" x1="102" y1="84"  x2="80"  y2="78"  stroke="#ffd700" stroke-width="1.2"/>
-    <line class="leo-line" x1="80"  y1="78"  x2="64"  y2="90"  stroke="#ffd700" stroke-width="1.2"/>
-    <line class="leo-line" x1="64"  y1="90"  x2="88"  y2="152" stroke="#ffd700" stroke-width="1.2"/>
-    <line class="leo-line" x1="112" y1="108" x2="165" y2="120" stroke="#ffd700" stroke-width="1.2"/>
-    <line class="leo-line" x1="165" y1="120" x2="188" y2="145" stroke="#ffd700" stroke-width="1.2"/>
-    <line class="leo-line" x1="188" y1="145" x2="210" y2="130" stroke="#ffd700" stroke-width="1.2"/>
-    <line class="leo-line" x1="210" y1="130" x2="165" y2="120" stroke="#ffd700" stroke-width="1.2"/>
-    <line class="leo-line" x1="210" y1="130" x2="238" y2="112" stroke="#ffd700" stroke-width="1.2"/>
-    <circle class="regulus" cx="88"  cy="175" r="5"   fill="#ffd700" filter="url(#strongGlow)"/>
-    <circle class="leo-s"   cx="88"  cy="152" r="2.5" fill="#ffd700"/>
-    <circle class="leo-s"   cx="102" cy="132" r="3.5" fill="#ffd700" filter="url(#glow)"/>
-    <circle class="leo-s"   cx="112" cy="108" r="2.5" fill="#ffd700"/>
-    <circle class="leo-s"   cx="102" cy="84"  r="2"   fill="#ffd700"/>
-    <circle class="leo-s"   cx="80"  cy="78"  r="2.5" fill="#ffd700"/>
-    <circle class="leo-s"   cx="64"  cy="90"  r="2"   fill="#ffd700"/>
-    <circle class="leo-s"   cx="165" cy="120" r="2.5" fill="#ffd700"/>
-    <circle class="leo-s"   cx="188" cy="145" r="2.5" fill="#ffd700"/>
-    <circle class="leo-s"   cx="210" cy="130" r="3"   fill="#ffd700" filter="url(#glow)"/>
-    <circle class="leo-s"   cx="238" cy="112" r="4"   fill="#ffd700" filter="url(#strongGlow)"/>
+    <line class="leo-line" x1="62"  y1="168" x2="62"  y2="146" stroke="#ffd700" stroke-width="1.2"/>
+    <line class="leo-line" x1="62"  y1="146" x2="76"  y2="126" stroke="#ffd700" stroke-width="1.2"/>
+    <line class="leo-line" x1="76"  y1="126" x2="86"  y2="102" stroke="#ffd700" stroke-width="1.2"/>
+    <line class="leo-line" x1="86"  y1="102" x2="76"  y2="78"  stroke="#ffd700" stroke-width="1.2"/>
+    <line class="leo-line" x1="76"  y1="78"  x2="54"  y2="72"  stroke="#ffd700" stroke-width="1.2"/>
+    <line class="leo-line" x1="54"  y1="72"  x2="38"  y2="84"  stroke="#ffd700" stroke-width="1.2"/>
+    <line class="leo-line" x1="38"  y1="84"  x2="62"  y2="146" stroke="#ffd700" stroke-width="1.2"/>
+    <line class="leo-line" x1="86"  y1="102" x2="136" y2="114" stroke="#ffd700" stroke-width="1.2"/>
+    <line class="leo-line" x1="136" y1="114" x2="158" y2="138" stroke="#ffd700" stroke-width="1.2"/>
+    <line class="leo-line" x1="158" y1="138" x2="178" y2="124" stroke="#ffd700" stroke-width="1.2"/>
+    <line class="leo-line" x1="178" y1="124" x2="136" y2="114" stroke="#ffd700" stroke-width="1.2"/>
+    <line class="leo-line" x1="178" y1="124" x2="204" y2="106" stroke="#ffd700" stroke-width="1.2"/>
+    <!-- Stars -->
+    <circle class="regulus" cx="62"  cy="168" r="5.5" fill="#ffd700" filter="url(#strongGlow)"/>
+    <circle class="leo-s"   cx="62"  cy="146" r="2.5" fill="#ffd700"/>
+    <circle class="leo-s"   cx="76"  cy="126" r="3.5" fill="#ffd700" filter="url(#glow)"/>
+    <circle class="leo-s"   cx="86"  cy="102" r="2.5" fill="#ffd700"/>
+    <circle class="leo-s"   cx="76"  cy="78"  r="2"   fill="#ffd700"/>
+    <circle class="leo-s"   cx="54"  cy="72"  r="2.5" fill="#ffd700"/>
+    <circle class="leo-s"   cx="38"  cy="84"  r="2"   fill="#ffd700"/>
+    <circle class="leo-s"   cx="136" cy="114" r="2.5" fill="#ffd700"/>
+    <circle class="leo-s"   cx="158" cy="138" r="2.5" fill="#ffd700"/>
+    <circle class="leo-s"   cx="178" cy="124" r="3"   fill="#ffd700" filter="url(#glow)"/>
+    <circle class="leo-s"   cx="204" cy="106" r="4.5" fill="#ffd700" filter="url(#strongGlow)"/>
   </g>
 
-  <!-- Coin Tree -->
-  <g transform="translate(800,55)">
+  <!-- Coin Tree top-right -->
+  <g transform="translate(808,50)">
     <rect x="17" y="115" width="6" height="50" rx="3" fill="#8b6b14"/>
     <line x1="20" y1="130" x2="2"  y2="110" stroke="#8b6b14" stroke-width="2.5" stroke-linecap="round"/>
     <line x1="20" y1="130" x2="38" y2="112" stroke="#8b6b14" stroke-width="2.5" stroke-linecap="round"/>
     <line x1="20" y1="118" x2="5"  y2="98"  stroke="#8b6b14" stroke-width="2"   stroke-linecap="round"/>
     <line x1="20" y1="118" x2="35" y2="98"  stroke="#8b6b14" stroke-width="2"   stroke-linecap="round"/>
     <line x1="20" y1="108" x2="20" y2="90"  stroke="#8b6b14" stroke-width="2"   stroke-linecap="round"/>
-    <g class="c1"><circle cx="2"  cy="102" r="9" fill="#ffd700" stroke="#b8860b" stroke-width="1.5"/><text x="2"  y="106" text-anchor="middle" font-size="9" font-weight="bold" fill="#7a4f00">$</text></g>
-    <g class="c2"><circle cx="38" cy="104" r="9" fill="#ffd700" stroke="#b8860b" stroke-width="1.5"/><text x="38" y="108" text-anchor="middle" font-size="9" font-weight="bold" fill="#7a4f00">$</text></g>
-    <g class="c3"><circle cx="5"  cy="90"  r="8" fill="#ffd700" stroke="#b8860b" stroke-width="1.5"/><text x="5"  y="94"  text-anchor="middle" font-size="8" font-weight="bold" fill="#7a4f00">$</text></g>
-    <g class="c4"><circle cx="35" cy="90"  r="8" fill="#ffd700" stroke="#b8860b" stroke-width="1.5"/><text x="35" y="94"  text-anchor="middle" font-size="8" font-weight="bold" fill="#7a4f00">$</text></g>
-    <g class="c5"><circle cx="20" cy="82"  r="10" fill="#ffd700" stroke="#b8860b" stroke-width="2"/> <text x="20" y="87"  text-anchor="middle" font-size="10" font-weight="bold" fill="#7a4f00">$</text></g>
+    <g class="c1"><circle cx="2"  cy="102" r="10" fill="#ffd700" stroke="#b8860b" stroke-width="1.5"/><text x="2"  y="107" text-anchor="middle" font-size="10" font-weight="bold" fill="#7a4f00">$</text></g>
+    <g class="c2"><circle cx="38" cy="104" r="10" fill="#ffd700" stroke="#b8860b" stroke-width="1.5"/><text x="38" y="109" text-anchor="middle" font-size="10" font-weight="bold" fill="#7a4f00">$</text></g>
+    <g class="c3"><circle cx="5"  cy="90"  r="9"  fill="#ffd700" stroke="#b8860b" stroke-width="1.5"/><text x="5"  y="95"  text-anchor="middle" font-size="9"  font-weight="bold" fill="#7a4f00">$</text></g>
+    <g class="c4"><circle cx="35" cy="90"  r="9"  fill="#ffd700" stroke="#b8860b" stroke-width="1.5"/><text x="35" y="95"  text-anchor="middle" font-size="9"  font-weight="bold" fill="#7a4f00">$</text></g>
+    <g class="c5"><circle cx="20" cy="80"  r="11" fill="#ffd700" stroke="#b8860b" stroke-width="2"/> <text x="20" y="85"  text-anchor="middle" font-size="11" font-weight="bold" fill="#7a4f00">$</text></g>
     <circle cx="8" cy="95" r="5" fill="#ffd700" opacity="0">
-      <animate attributeName="cy"      from="95"  to="175" dur="2.8s" repeatCount="indefinite"/>
+      <animate attributeName="cy"      from="95"  to="178" dur="2.8s" repeatCount="indefinite"/>
       <animate attributeName="opacity" values="0;.9;0"     dur="2.8s" repeatCount="indefinite"/>
     </circle>
     <circle cx="30" cy="100" r="4" fill="#ffd700" opacity="0">
-      <animate attributeName="cy"      from="100" to="178" dur="2.3s" begin="1.2s" repeatCount="indefinite"/>
+      <animate attributeName="cy"      from="100" to="180" dur="2.3s" begin="1.2s" repeatCount="indefinite"/>
       <animate attributeName="opacity" values="0;.9;0"     dur="2.3s" begin="1.2s" repeatCount="indefinite"/>
     </circle>
   </g>
 
-  <!-- ═══ LION + SNAKE running across ═══ -->
-  <!-- Motion path along the bottom -->
-  <path id="runPath" d="M-180,218 L1080,218" fill="none"/>
+  <!-- Motion path for lion+snake -->
+  <path id="runPath" d="M-120,220 L1020,220" fill="none"/>
 
-  <g>
-    <!-- === LION body === -->
-    <!-- Tail (behind) -->
-    <path d="M-62,0 Q-75,-15 -70,-28 Q-65,-38 -58,-35" stroke="#c9a227" stroke-width="4" fill="none" stroke-linecap="round">
-      <animateMotion dur="10s" repeatCount="indefinite"><mpath href="#runPath"/></animateMotion>
-    </path>
-    <circle cx="-56" cy="-37" r="6" fill="#ffa500">
-      <animateMotion dur="10s" repeatCount="indefinite"><mpath href="#runPath"/></animateMotion>
-    </circle>
+  <!-- LION emoji 🦁 -->
+  <text font-size="62" text-anchor="middle" dominant-baseline="middle">
+    🦁
+    <animateMotion dur="12s" repeatCount="indefinite">
+      <mpath href="#runPath"/>
+    </animateMotion>
+  </text>
 
-    <!-- Hind legs -->
-    <line x1="-40" y1="5" x2="-48" y2="30" stroke="#c9a227" stroke-width="5" stroke-linecap="round">
-      <animateMotion dur="10s" repeatCount="indefinite"><mpath href="#runPath"/></animateMotion>
-    </line>
-    <line x1="-28" y1="5" x2="-30" y2="30" stroke="#c9a227" stroke-width="5" stroke-linecap="round">
-      <animateMotion dur="10s" repeatCount="indefinite"><mpath href="#runPath"/></animateMotion>
-    </line>
-
-    <!-- Body -->
-    <ellipse cx="-28" cy="-5" rx="38" ry="18" fill="#c9a227">
-      <animateMotion dur="10s" repeatCount="indefinite"><mpath href="#runPath"/></animateMotion>
-    </ellipse>
-
-    <!-- Front legs -->
-    <line x1="-5"  y1="10" x2="-8"  y2="32" stroke="#c9a227" stroke-width="5" stroke-linecap="round">
-      <animateMotion dur="10s" repeatCount="indefinite"><mpath href="#runPath"/></animateMotion>
-    </line>
-    <line x1="8"   y1="8"  x2="14"  y2="30" stroke="#c9a227" stroke-width="5" stroke-linecap="round">
-      <animateMotion dur="10s" repeatCount="indefinite"><mpath href="#runPath"/></animateMotion>
-    </line>
-
-    <!-- Mane -->
-    <circle cx="12" cy="-8" r="22" fill="#ffa500" opacity="0.85">
-      <animateMotion dur="10s" repeatCount="indefinite"><mpath href="#runPath"/></animateMotion>
-    </circle>
-
-    <!-- Head -->
-    <circle cx="12" cy="-8" r="16" fill="#c9a227">
-      <animateMotion dur="10s" repeatCount="indefinite"><mpath href="#runPath"/></animateMotion>
-    </circle>
-
-    <!-- Eyes -->
-    <circle cx="19" cy="-12" r="3" fill="white">
-      <animateMotion dur="10s" repeatCount="indefinite"><mpath href="#runPath"/></animateMotion>
-    </circle>
-    <circle cx="20" cy="-12" r="1.5" fill="#1a0a3d">
-      <animateMotion dur="10s" repeatCount="indefinite"><mpath href="#runPath"/></animateMotion>
-    </circle>
-
-    <!-- Nose -->
-    <ellipse cx="26" cy="-5" rx="4" ry="3" fill="#b8860b">
-      <animateMotion dur="10s" repeatCount="indefinite"><mpath href="#runPath"/></animateMotion>
-    </ellipse>
-
-    <!-- Mouth -->
-    <path d="M24,-2 Q26,2 28,-2" stroke="#8b6914" stroke-width="1.5" fill="none" stroke-linecap="round">
-      <animateMotion dur="10s" repeatCount="indefinite"><mpath href="#runPath"/></animateMotion>
-    </path>
-
-    <!-- Ear -->
-    <polygon points="5,-22 12,-32 18,-22" fill="#ffa500">
-      <animateMotion dur="10s" repeatCount="indefinite"><mpath href="#runPath"/></animateMotion>
-    </polygon>
-
-    <!-- === SNAKE on lion's back === -->
-    <!-- Snake coil body -->
-    <path d="M-50,-22 Q-38,-38 -25,-25 Q-12,-12 -22,-5 Q-32,2 -20,8" stroke="#39d353" stroke-width="5" fill="none" stroke-linecap="round">
-      <animateMotion dur="10s" repeatCount="indefinite"><mpath href="#runPath"/></animateMotion>
-    </path>
-    <!-- Snake head (raised up) -->
-    <ellipse cx="-18" cy="5" rx="6" ry="4" fill="#2ea043" transform="rotate(-30,-18,5)">
-      <animateMotion dur="10s" repeatCount="indefinite"><mpath href="#runPath"/></animateMotion>
-    </ellipse>
-    <!-- Snake eye -->
-    <circle cx="-16" cy="2" r="1.5" fill="yellow">
-      <animateMotion dur="10s" repeatCount="indefinite"><mpath href="#runPath"/></animateMotion>
-    </circle>
-    <circle cx="-16" cy="2" r="0.7" fill="black">
-      <animateMotion dur="10s" repeatCount="indefinite"><mpath href="#runPath"/></animateMotion>
-    </circle>
-    <!-- Snake tongue -->
-    <path d="M-12,4 L-6,1 M-12,4 L-6,7" stroke="red" stroke-width="1.2" stroke-linecap="round">
-      <animateMotion dur="10s" repeatCount="indefinite"><mpath href="#runPath"/></animateMotion>
-    </path>
-  </g>
+  <!-- SNAKE emoji 🐍 positioned slightly above/behind lion -->
+  <text font-size="38" text-anchor="middle" dominant-baseline="middle" dy="-38" dx="-10">
+    🐍
+    <animateMotion dur="12s" repeatCount="indefinite">
+      <mpath href="#runPath"/>
+    </animateMotion>
+  </text>
 
   <!-- Title -->
-  <text class="title" x="480" y="132"
+  <text class="title" x="490" y="128"
         text-anchor="middle"
         font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif"
         font-size="54" font-weight="800" fill="#ffd700">Vinny Nguyen</text>
 
   <!-- Subtitle -->
-  <text class="subtitle" x="480" y="168"
+  <text class="subtitle" x="490" y="165"
         text-anchor="middle"
         font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif"
         font-size="19" fill="#ffe580">Developer  |  Server  |  Vietnam</text>
