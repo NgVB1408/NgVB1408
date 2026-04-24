@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a0a3d,65:7a4f00,100:c9a227&height=250&section=header&text=Vinny%20Nguyen&fontSize=56&fontColor=ffd700&fontAlignY=42&animation=twinkling&desc=Developer%20%7C%20Server%20%7C%20Vietnam%20%F0%9F%87%BB%F0%9F%87%B3&descAlignY=62&descSize=20&descColor=ffe066" width="100%"/>
+<img src="./banner.svg" width="100%"/>
 
 </div>
 
