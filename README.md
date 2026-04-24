@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2840,100:388bfd&height=200&section=header&text=Vinny%20Nguyen&fontSize=52&fontColor=e6edf3&fontAlignY=38&desc=Solo%20Full-Stack%20Developer%20%7C%20Vietnam%20%F0%9F%87%BB%F0%9F%87%B3&descAlignY=58&descSize=18&descColor=8b949e" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1200,100:c9a227&height=200&section=header&text=Vinny%20Nguyen&fontSize=52&fontColor=e6edf3&fontAlignY=38&desc=Solo%20Full-Stack%20Developer%20%7C%20Vietnam%20%F0%9F%87%BB%F0%9F%87%B3&descAlignY=58&descSize=18&descColor=c9a227" width="100%"/>
 
 </div>
 
@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=388BFD&center=true&vCenter=true&width=650&lines=Học%2C+học+nữa%2C+học+mãi.;Python+%7C+PyQt5+%7C+Node.js+%7C+Docker;Automation+%7C+AI+%7C+Security)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=C9A227&center=true&vCenter=true&width=650&lines=Học%2C+học+nữa%2C+học+mãi.;Python+%7C+PyQt5+%7C+Node.js+%7C+Docker;Automation+%7C+AI+%7C+Security)](https://git.io/typing-svg)
 
 </div>
 
@@ -18,10 +18,7 @@
 
 <div align="center">
 
-🇻🇳 Vietnam &nbsp;·&nbsp; Solo Full-Stack Developer &nbsp;·&nbsp; Frontend · Backend · DevOps
-
-*Ý tưởng → thiết kế → code → deploy → production — một mình.*  
-*Idea → design → code → deploy → production — solo.*
+🇻🇳 Vietnam
 
 </div>
 
@@ -33,7 +30,7 @@
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=388bfd)
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=c9a227)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=e3b341)
 ![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=3fb950)
 ![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=f85149)
@@ -49,7 +46,7 @@
 
 ![PyQt5](https://img.shields.io/badge/PyQt5-0d1117?style=for-the-badge&logo=qt&logoColor=3fb950)
 ![Tkinter](https://img.shields.io/badge/Tkinter-0d1117?style=for-the-badge&logo=python&logoColor=ffa657)
-![PyInstaller](https://img.shields.io/badge/PyInstaller_%2F_EXE-0d1117?style=for-the-badge&logo=python&logoColor=bc8cff)
+![PyInstaller](https://img.shields.io/badge/PyInstaller_%2F_EXE-0d1117?style=for-the-badge&logo=python&logoColor=c9a227)
 
 </div>
 
@@ -64,7 +61,7 @@
 ![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=e6edf3)
 ![WordPress](https://img.shields.io/badge/WordPress-0d1117?style=for-the-badge&logo=wordpress&logoColor=21759B)
 ![BeautifulSoup4](https://img.shields.io/badge/BeautifulSoup4-0d1117?style=for-the-badge&logo=python&logoColor=bc8cff)
-![WebClone](https://img.shields.io/badge/Website_Cloning-0d1117?style=for-the-badge&logo=googlechrome&logoColor=388bfd)
+![WebClone](https://img.shields.io/badge/Website_Cloning-0d1117?style=for-the-badge&logo=googlechrome&logoColor=c9a227)
 ![Facebook](https://img.shields.io/badge/Facebook_Automation-0d1117?style=for-the-badge&logo=facebook&logoColor=1877F2)
 
 </div>
@@ -75,6 +72,7 @@
 
 ![Telethon](https://img.shields.io/badge/Telethon_%2F_Pyrogram-0d1117?style=for-the-badge&logo=telegram&logoColor=26A5E4)
 ![TelegramBot](https://img.shields.io/badge/Telegram_Bot_%2F_Channel_%2F_Group-0d1117?style=for-the-badge&logo=telegram&logoColor=26A5E4)
+![FanpageFB](https://img.shields.io/badge/Fanpage_Facebook_Dev-0d1117?style=for-the-badge&logo=facebook&logoColor=1877F2)
 ![Zalo](https://img.shields.io/badge/Zalo_Dev-0d1117?style=for-the-badge&logo=zalo&logoColor=0068FF)
 ![ADS](https://img.shields.io/badge/Ads_Automation-0d1117?style=for-the-badge&logo=googleads&logoColor=ffa657)
 
@@ -85,7 +83,7 @@
 <div align="center">
 
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-0d1117?style=for-the-badge&logo=openai&logoColor=3fb950)
-![Gemini](https://img.shields.io/badge/Gemini_API-0d1117?style=for-the-badge&logo=google&logoColor=388bfd)
+![Gemini](https://img.shields.io/badge/Gemini_API-0d1117?style=for-the-badge&logo=google&logoColor=c9a227)
 ![Claude](https://img.shields.io/badge/Claude_API-0d1117?style=for-the-badge&logo=anthropic&logoColor=e6edf3)
 ![OCR](https://img.shields.io/badge/PaddleOCR_%2F_ddddocr-0d1117?style=for-the-badge&logo=python&logoColor=ffa657)
 ![OpenCV](https://img.shields.io/badge/OpenCV-0d1117?style=for-the-badge&logo=opencv&logoColor=5C3EE8)
@@ -103,7 +101,7 @@
 ![Linux](https://img.shields.io/badge/Linux_%2F_VPS-0d1117?style=for-the-badge&logo=linux&logoColor=e3b341)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare_Tunnel-0d1117?style=for-the-badge&logo=cloudflare&logoColor=F6821F)
 ![SSH](https://img.shields.io/badge/SSH_%2F_Server_Admin-0d1117?style=for-the-badge&logo=gnubash&logoColor=3fb950)
-![Coolify](https://img.shields.io/badge/Coolify-0d1117?style=for-the-badge&logo=server&logoColor=bc8cff)
+![Coolify](https://img.shields.io/badge/Coolify-0d1117?style=for-the-badge&logo=server&logoColor=c9a227)
 ![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=f85149)
 ![SQLite](https://img.shields.io/badge/SQLite-0d1117?style=for-the-badge&logo=sqlite&logoColor=79c0ff)
 
@@ -148,8 +146,6 @@
 
 ---
 
----
-
 ## 📬 Liên hệ / Contact
 
 <div align="center">
@@ -163,7 +159,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:388bfd,50:1a2840,100:0d1117&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c9a227,50:1a1200,100:0d1117&height=100&section=footer" width="100%"/>
 
 *"Code là nghệ thuật. Ship với tất cả sự tự hào."*  
 *"Code is craft. Ship it with pride."*
