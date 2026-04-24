@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:7a4f00,65:c9a227,100:ffd700&height=220&section=header&text=Vinny%20Nguyen&fontSize=56&fontColor=ffffff&fontAlignY=40&desc=Developer%20%7C%20Server%20%7C%20Vietnam%20%F0%9F%87%BB%F0%9F%87%B3&descAlignY=60&descSize=20&descColor=ffe066" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a0a3d,65:7a4f00,100:c9a227&height=250&section=header&text=Vinny%20Nguyen&fontSize=56&fontColor=ffd700&fontAlignY=42&animation=twinkling&desc=Developer%20%7C%20Server%20%7C%20Vietnam%20%F0%9F%87%BB%F0%9F%87%B3&descAlignY=62&descSize=20&descColor=ffe066" width="100%"/>
 
 </div>
 
 <div align="center">
 
-**♌ Leo · Bạch Lạp Kim · 🇻🇳**
+**Leo ♌ &nbsp;·&nbsp; Tân Tỵ 🐍 &nbsp;·&nbsp; Bạch Lạp Kim &nbsp;·&nbsp; 🇻🇳**
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=C9A227&center=true&vCenter=true&width=700&lines=Python+%7C+Node.js+%7C+Docker+%7C+AI;Automation+%7C+Security+%7C+Full-Stack;Hoc%2C+hoc+nua%2C+hoc+mai.)](https://git.io/typing-svg)
 
