@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:3d1000,75:8b4500,100:c9a227&height=220&section=header&text=%E2%99%8C%20Vinny%20Nguyen&fontSize=52&fontColor=ffd700&fontAlignY=38&desc=Developer%20%7C%20Server%20%7C%20Vietnam%20%F0%9F%87%BB%F0%9F%87%B3&descAlignY=58&descSize=18&descColor=ffa657" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:3d1000,75:8b4500,100:c9a227&height=220&section=header&text=Vinny%20Nguyen&fontSize=56&fontColor=ffd700&fontAlignY=40&desc=Developer%20%7C%20Server%20%7C%20Vietnam&descAlignY=60&descSize=20&descColor=ffa657" width="100%"/>
 
 </div>
 
-<br/>
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=C9A227&center=true&vCenter=true&width=650&lines=Học%2C+học+nữa%2C+học+mãi.;Python+%7C+PyQt5+%7C+Node.js+%7C+Docker;Automation+%7C+AI+%7C+Security)](https://git.io/typing-svg)
+### ♌ &nbsp;·&nbsp; Bạch Lạp Kim &nbsp;·&nbsp; 🇻🇳
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=C9A227&center=true&vCenter=true&width=700&lines=Python+%7C+Node.js+%7C+Docker+%7C+AI;Automation+%7C+Security+%7C+Full-Stack;Hoc%2C+hoc+nua%2C+hoc+mai.)](https://git.io/typing-svg)
 
 </div>
 
@@ -26,8 +26,9 @@
 
 ## 🛠 Kỹ năng & Công nghệ / Skills & Tech Stack
 
-**💻 Ngôn ngữ / Languages**
-
+<details>
+<summary><b>💻 Ngôn ngữ / Languages</b></summary>
+<br/>
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=c9a227)
@@ -39,9 +40,11 @@
 ![Android](https://img.shields.io/badge/Android_Dev-0d1117?style=for-the-badge&logo=android&logoColor=3fb950)
 
 </div>
+</details>
 
-**🖥 Desktop & GUI**
-
+<details>
+<summary><b>🖥 Desktop & GUI</b></summary>
+<br/>
 <div align="center">
 
 ![PyQt5](https://img.shields.io/badge/PyQt5-0d1117?style=for-the-badge&logo=qt&logoColor=3fb950)
@@ -49,9 +52,11 @@
 ![PyInstaller](https://img.shields.io/badge/PyInstaller_%2F_EXE-0d1117?style=for-the-badge&logo=python&logoColor=c9a227)
 
 </div>
+</details>
 
-**🌐 Web & Automation**
-
+<details>
+<summary><b>🌐 Web & Automation</b></summary>
+<br/>
 <div align="center">
 
 ![Playwright](https://img.shields.io/badge/Playwright-0d1117?style=for-the-badge&logo=playwright&logoColor=3fb950)
@@ -65,9 +70,11 @@
 ![Facebook](https://img.shields.io/badge/Facebook_Automation-0d1117?style=for-the-badge&logo=facebook&logoColor=1877F2)
 
 </div>
+</details>
 
-**📱 Messaging & Social Platforms**
-
+<details>
+<summary><b>📱 Messaging & Social Platforms</b></summary>
+<br/>
 <div align="center">
 
 ![Telethon](https://img.shields.io/badge/Telethon_%2F_Pyrogram-0d1117?style=for-the-badge&logo=telegram&logoColor=26A5E4)
@@ -77,9 +84,11 @@
 ![ADS](https://img.shields.io/badge/Ads_Automation-0d1117?style=for-the-badge&logo=googleads&logoColor=ffa657)
 
 </div>
+</details>
 
-**🤖 AI & Machine Learning**
-
+<details>
+<summary><b>🤖 AI & Machine Learning</b></summary>
+<br/>
 <div align="center">
 
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-0d1117?style=for-the-badge&logo=openai&logoColor=3fb950)
@@ -92,9 +101,11 @@
 ![Training](https://img.shields.io/badge/AI_Model_Training-0d1117?style=for-the-badge&logo=tensorflow&logoColor=ffa657)
 
 </div>
+</details>
 
-**🔧 DevOps & Infrastructure**
-
+<details>
+<summary><b>🔧 DevOps & Infrastructure</b></summary>
+<br/>
 <div align="center">
 
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=79c0ff)
@@ -106,9 +117,11 @@
 ![SQLite](https://img.shields.io/badge/SQLite-0d1117?style=for-the-badge&logo=sqlite&logoColor=79c0ff)
 
 </div>
+</details>
 
-**🔐 Cybersecurity**
-
+<details>
+<summary><b>🔐 Cybersecurity</b></summary>
+<br/>
 <div align="center">
 
 ![Pentest](https://img.shields.io/badge/Penetration_Testing-0d1117?style=for-the-badge&logo=hackthebox&logoColor=3fb950)
@@ -116,6 +129,7 @@
 ![Reverse](https://img.shields.io/badge/Reverse_Engineering-0d1117?style=for-the-badge&logo=hackaday&logoColor=f85149)
 
 </div>
+</details>
 
 ---
 
