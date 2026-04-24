@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=388BFD&center=true&vCenter=true&width=650&lines=Python+%7C+PyQt5+%7C+Node.js+%7C+Docker;Automation+%7C+AI+%7C+Security;Học%2C+học+nữa%2C+học+mãi.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=388BFD&center=true&vCenter=true&width=650&lines=Học%2C+học+nữa%2C+học+mãi.;Python+%7C+PyQt5+%7C+Node.js+%7C+Docker;Automation+%7C+AI+%7C+Security)](https://git.io/typing-svg)
 
 </div>
 
@@ -164,7 +164,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:388bfd,50:1a2840,100:0d1117&height=100&section=footer" width="100%"/>
 
-*"Học, học nữa, học mãi."* — Hồ Chí Minh  
 *"Code là nghệ thuật. Ship với tất cả sự tự hào."*  
 *"Code is craft. Ship it with pride."*
 
