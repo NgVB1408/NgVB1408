@@ -161,7 +161,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:c9a227,50:1a1200,100:0d1117&height=100&section=footer" width="100%"/>
 
-*"Code là nghệ thuật. Ship với tất cả sự tự hào."*  
-*"Code is craft. Ship it with pride."*
+*"Thà bỏ người yêu chứ không thể bỏ Code."*
 
 </div>
