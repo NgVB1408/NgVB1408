@@ -31,18 +31,68 @@ developer = {
 
 ---
 
-## 🛠 Công nghệ / Tech Stack
+## 🛠 Kỹ năng & Công nghệ / Skills & Tech Stack
+
+**💻 Ngôn ngữ lập trình / Languages**
 
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=388bfd)
-![PyQt5](https://img.shields.io/badge/PyQt5-0d1117?style=for-the-badge&logo=qt&logoColor=3fb950)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=e3b341)
 ![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=3fb950)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=79c0ff)
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=e3b341)
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=f85149)
-![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup4-0d1117?style=for-the-badge&logo=python&logoColor=ffa657)
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=f85149)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=79c0ff)
+
+</div>
+
+**🖥 Desktop & GUI**
+
+<div align="center">
+
+![PyQt5](https://img.shields.io/badge/PyQt5-0d1117?style=for-the-badge&logo=qt&logoColor=3fb950)
+![Tkinter](https://img.shields.io/badge/Tkinter-0d1117?style=for-the-badge&logo=python&logoColor=ffa657)
+
+</div>
+
+**🌐 Web & Automation**
+
+<div align="center">
+
+![BeautifulSoup4](https://img.shields.io/badge/BeautifulSoup4-0d1117?style=for-the-badge&logo=python&logoColor=ffa657)
 ![Requests](https://img.shields.io/badge/Requests-0d1117?style=for-the-badge&logo=python&logoColor=bc8cff)
+![Selenium](https://img.shields.io/badge/Selenium-0d1117?style=for-the-badge&logo=selenium&logoColor=3fb950)
+![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=e6edf3)
+
+</div>
+
+**🔧 DevOps & Tools**
+
+<div align="center">
+
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=79c0ff)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=f85149)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=e3b341)
+![Coolify](https://img.shields.io/badge/Coolify-0d1117?style=for-the-badge&logo=server&logoColor=bc8cff)
+
+</div>
+
+**🤖 AI & Data**
+
+<div align="center">
+
+![OpenAI](https://img.shields.io/badge/OpenAI_API-0d1117?style=for-the-badge&logo=openai&logoColor=3fb950)
+![Gemini](https://img.shields.io/badge/Gemini_API-0d1117?style=for-the-badge&logo=google&logoColor=388bfd)
+![Telegram Bot](https://img.shields.io/badge/Telegram_Bot_API-0d1117?style=for-the-badge&logo=telegram&logoColor=26A5E4)
+![OCR](https://img.shields.io/badge/OCR_%2F_PaddleOCR-0d1117?style=for-the-badge&logo=python&logoColor=ffa657)
+
+</div>
+
+**🔐 Security**
+
+<div align="center">
+
+![Burp Suite](https://img.shields.io/badge/Security_Research-0d1117?style=for-the-badge&logo=hackthebox&logoColor=3fb950)
+![Android](https://img.shields.io/badge/Android_Analysis-0d1117?style=for-the-badge&logo=android&logoColor=3fb950)
 
 </div>
 
