@@ -18,9 +18,10 @@
 
 <div align="center">
 
-🇻🇳 Vietnam &nbsp;·&nbsp; Python / PyQt5 / Node.js / Docker &nbsp;·&nbsp; Automation · AI · Security  
-*Tự động hóa. Bảo mật. AI. Không giải thích thêm.*  
-*Automation. Security. AI. No further explanation needed.*
+🇻🇳 Vietnam &nbsp;·&nbsp; Solo Full-Stack Developer
+
+*Ý tưởng → thiết kế → code → deploy → production — một mình.*  
+*Idea → design → code → deploy → production — solo.*
 
 </div>
 
