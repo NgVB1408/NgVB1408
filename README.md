@@ -132,22 +132,6 @@
 
 ---
 
-## 📊 Thống kê / GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=NgVB1408&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=388bfd&icon_color=3fb950&text_color=8b949e&hide_border=false&count_private=true&locale=vi" />
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NgVB1408&layout=compact&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=388bfd&text_color=8b949e&hide_border=false&count_private=true" />
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=NgVB1408&theme=github-dark-blue&background=0d1117&border=30363d&ring=388bfd&fire=ffa657&currStreakLabel=388bfd&sideLabels=8b949e&dates=475569&locale=vi)
-
-</div>
-
 ---
 
 ## 📬 Liên hệ / Contact
