@@ -16,18 +16,13 @@
 
 ## 🧑‍💻 Về tôi / About Me
 
-```python
-developer = {
-    "name"      : "Vinny Nguyen",
-    "location"  : "Vietnam 🇻🇳",
-    "languages" : ["Tiếng Việt 🇻🇳", "English 🇺🇸"],
-    "focus"     : ["Web Crawling", "Desktop GUI", "Automation", "AI Tools"],
-    "stack"     : ["Python", "PyQt5", "Node.js", "Docker"],
-    "currently" : "WebLogic Crawler — công cụ phân tích website chuyên nghiệp",
-    "mindset"   : "Ship nhanh. Lặp lại. Làm cho nó chạy, rồi làm cho nó đúng.",
-    #              Ship fast. Iterate. Make it work, then make it right.
-}
-```
+<div align="center">
+
+🇻🇳 Vietnam &nbsp;·&nbsp; Python / PyQt5 / Node.js / Docker &nbsp;·&nbsp; Automation · AI · Security  
+*Xây công cụ. Giải quyết vấn đề. Không giải thích thêm.*  
+*Build tools. Solve problems. No further explanation needed.*
+
+</div>
 
 ---
 
@@ -117,6 +112,17 @@ developer = {
 
 ---
 
+## 🚀 Dự án / Work
+
+<div align="center">
+
+> 🇻🇳 Hầu hết các dự án là **riêng tư**. Contribution graph nói lên tất cả.  
+> 🇺🇸 Most work is **private**. The contribution graph speaks for itself.
+
+</div>
+
+---
+
 ## 📊 Thống kê / GitHub Stats
 
 <div align="center">
@@ -132,14 +138,6 @@ developer = {
 ![GitHub Streak](https://streak-stats.demolab.com?user=NgVB1408&theme=github-dark-blue&background=0d1117&border=30363d&ring=388bfd&fire=ffa657&currStreakLabel=388bfd&sideLabels=8b949e&dates=475569&locale=vi)
 
 </div>
-
----
-
-## 🔐 Nghiên cứu bảo mật / Security Research
-
-> 🇻🇳 Công bố có trách nhiệm — Phát hiện và báo cáo **18 lỗ hổng bảo mật** trong ứng dụng Android Huione Pay.  
-> 🇺🇸 Responsible disclosure — **18 vulnerabilities** found and reported in Huione Pay Android app.  
-> *All findings disclosed ethically with full documentation.*
 
 ---
 
