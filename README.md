@@ -121,6 +121,22 @@
 
 ---
 
+## ⚡ Kinh nghiệm / Experience
+
+<div align="center">
+
+| | |
+|:---:|:---|
+| 📅 | Code từ **tháng 7/2024** — chưa đầy 2 năm |
+| 🚀 | **200+ dự án** hoàn chỉnh, đa lĩnh vực |
+| 📣 | **100+ chiến dịch quảng cáo** — Facebook · Google · Telegram · TikTok |
+| 🔓 | Mở khóa & vận hành: Sàn điện tử · Facebook · Telegram |
+| 🧠 | Một mình từ ý tưởng → sản phẩm chạy production |
+
+</div>
+
+---
+
 ## 🚀 Dự án / Work
 
 <div align="center">
