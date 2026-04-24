@@ -33,7 +33,7 @@ developer = {
 
 ## 🛠 Kỹ năng & Công nghệ / Skills & Tech Stack
 
-**💻 Ngôn ngữ lập trình / Languages**
+**💻 Ngôn ngữ / Languages**
 
 <div align="center">
 
@@ -42,6 +42,8 @@ developer = {
 ![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=3fb950)
 ![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=f85149)
 ![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=79c0ff)
+![Swift](https://img.shields.io/badge/iOS_Dev-0d1117?style=for-the-badge&logo=swift&logoColor=f85149)
+![Android](https://img.shields.io/badge/Android_Dev-0d1117?style=for-the-badge&logo=android&logoColor=3fb950)
 
 </div>
 
@@ -58,41 +60,55 @@ developer = {
 
 <div align="center">
 
+![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=e6edf3)
+![Selenium](https://img.shields.io/badge/Selenium-0d1117?style=for-the-badge&logo=selenium&logoColor=3fb950)
 ![BeautifulSoup4](https://img.shields.io/badge/BeautifulSoup4-0d1117?style=for-the-badge&logo=python&logoColor=ffa657)
 ![Requests](https://img.shields.io/badge/Requests-0d1117?style=for-the-badge&logo=python&logoColor=bc8cff)
-![Selenium](https://img.shields.io/badge/Selenium-0d1117?style=for-the-badge&logo=selenium&logoColor=3fb950)
-![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=e6edf3)
 
 </div>
 
-**🔧 DevOps & Tools**
+**📱 Messaging & Social Platforms**
 
 <div align="center">
 
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=79c0ff)
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=f85149)
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=e3b341)
-![Coolify](https://img.shields.io/badge/Coolify-0d1117?style=for-the-badge&logo=server&logoColor=bc8cff)
+![Telegram](https://img.shields.io/badge/Telegram_Bot_%2F_Channel_%2F_Group-0d1117?style=for-the-badge&logo=telegram&logoColor=26A5E4)
+![Zalo](https://img.shields.io/badge/Zalo_Dev-0d1117?style=for-the-badge&logo=zalo&logoColor=0068FF)
+![ADS](https://img.shields.io/badge/Ads_Automation-0d1117?style=for-the-badge&logo=googleads&logoColor=ffa657)
 
 </div>
 
-**🤖 AI & Data**
+**🤖 AI & Machine Learning**
 
 <div align="center">
 
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-0d1117?style=for-the-badge&logo=openai&logoColor=3fb950)
 ![Gemini](https://img.shields.io/badge/Gemini_API-0d1117?style=for-the-badge&logo=google&logoColor=388bfd)
-![Telegram Bot](https://img.shields.io/badge/Telegram_Bot_API-0d1117?style=for-the-badge&logo=telegram&logoColor=26A5E4)
-![OCR](https://img.shields.io/badge/OCR_%2F_PaddleOCR-0d1117?style=for-the-badge&logo=python&logoColor=ffa657)
+![OCR](https://img.shields.io/badge/PaddleOCR-0d1117?style=for-the-badge&logo=python&logoColor=ffa657)
+![CRNN](https://img.shields.io/badge/CRNN_%2F_PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=f85149)
+![TTS](https://img.shields.io/badge/Voice_Cloning_%2F_TTS-0d1117?style=for-the-badge&logo=soundcloud&logoColor=bc8cff)
+![Pillow](https://img.shields.io/badge/Image_Processing-0d1117?style=for-the-badge&logo=python&logoColor=e3b341)
 
 </div>
 
-**🔐 Security**
+**🔧 DevOps & Infrastructure**
 
 <div align="center">
 
-![Burp Suite](https://img.shields.io/badge/Security_Research-0d1117?style=for-the-badge&logo=hackthebox&logoColor=3fb950)
-![Android](https://img.shields.io/badge/Android_Analysis-0d1117?style=for-the-badge&logo=android&logoColor=3fb950)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=79c0ff)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=e3b341)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=f85149)
+![Coolify](https://img.shields.io/badge/Coolify-0d1117?style=for-the-badge&logo=server&logoColor=bc8cff)
+![SQLite](https://img.shields.io/badge/SQLite-0d1117?style=for-the-badge&logo=sqlite&logoColor=79c0ff)
+
+</div>
+
+**🔐 Cybersecurity**
+
+<div align="center">
+
+![Pentest](https://img.shields.io/badge/Penetration_Testing-0d1117?style=for-the-badge&logo=hackthebox&logoColor=3fb950)
+![Android Security](https://img.shields.io/badge/Android_Security_Analysis-0d1117?style=for-the-badge&logo=android&logoColor=ffa657)
+![Reverse](https://img.shields.io/badge/Reverse_Engineering-0d1117?style=for-the-badge&logo=hackaday&logoColor=f85149)
 
 </div>
 
