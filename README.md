@@ -64,6 +64,8 @@ developer = {
 ![Selenium](https://img.shields.io/badge/Selenium-0d1117?style=for-the-badge&logo=selenium&logoColor=3fb950)
 ![BeautifulSoup4](https://img.shields.io/badge/BeautifulSoup4-0d1117?style=for-the-badge&logo=python&logoColor=ffa657)
 ![Requests](https://img.shields.io/badge/Requests-0d1117?style=for-the-badge&logo=python&logoColor=bc8cff)
+![WebClone](https://img.shields.io/badge/Website_Cloning-0d1117?style=for-the-badge&logo=googlechrome&logoColor=79c0ff)
+![Facebook](https://img.shields.io/badge/Facebook_Automation-0d1117?style=for-the-badge&logo=facebook&logoColor=1877F2)
 
 </div>
 
@@ -87,6 +89,7 @@ developer = {
 ![CRNN](https://img.shields.io/badge/CRNN_%2F_PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=f85149)
 ![TTS](https://img.shields.io/badge/Voice_Cloning_%2F_TTS-0d1117?style=for-the-badge&logo=soundcloud&logoColor=bc8cff)
 ![Pillow](https://img.shields.io/badge/Image_Processing-0d1117?style=for-the-badge&logo=python&logoColor=e3b341)
+![Training](https://img.shields.io/badge/AI_Model_Training-0d1117?style=for-the-badge&logo=tensorflow&logoColor=ffa657)
 
 </div>
 
@@ -170,6 +173,7 @@ developer = {
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:388bfd,50:1a2840,100:0d1117&height=100&section=footer" width="100%"/>
 
+*"Học, học nữa, học mãi."* — Hồ Chí Minh  
 *"Code là nghệ thuật. Ship với tất cả sự tự hào."*  
 *"Code is craft. Ship it with pride."*
 
