@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1200,100:c9a227&height=200&section=header&text=Vinny%20Nguyen&fontSize=52&fontColor=e6edf3&fontAlignY=38&desc=Solo%20Full-Stack%20Developer%20%7C%20Vietnam%20%F0%9F%87%BB%F0%9F%87%B3&descAlignY=58&descSize=18&descColor=c9a227" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:3d1000,75:8b4500,100:c9a227&height=220&section=header&text=%E2%99%8C%20Vinny%20Nguyen&fontSize=52&fontColor=ffd700&fontAlignY=38&desc=Developer%20%7C%20Server%20%7C%20Vietnam%20%F0%9F%87%BB%F0%9F%87%B3&descAlignY=58&descSize=18&descColor=ffa657" width="100%"/>
 
 </div>
 
@@ -159,7 +159,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c9a227,50:1a1200,100:0d1117&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c9a227,25:8b4500,60:3d1000,100:0d1117&height=100&section=footer" width="100%"/>
 
 *"Thà bỏ người yêu chứ không thể bỏ Code."*
 
