@@ -48,6 +48,7 @@
 
 ![PyQt5](https://img.shields.io/badge/PyQt5-0d1117?style=for-the-badge&logo=qt&logoColor=3fb950)
 ![Tkinter](https://img.shields.io/badge/Tkinter-0d1117?style=for-the-badge&logo=python&logoColor=ffa657)
+![PyInstaller](https://img.shields.io/badge/PyInstaller_%2F_EXE-0d1117?style=for-the-badge&logo=python&logoColor=bc8cff)
 
 </div>
 
@@ -55,11 +56,14 @@
 
 <div align="center">
 
+![Playwright](https://img.shields.io/badge/Playwright-0d1117?style=for-the-badge&logo=playwright&logoColor=3fb950)
+![Puppeteer](https://img.shields.io/badge/Puppeteer-0d1117?style=for-the-badge&logo=puppeteer&logoColor=40B5A4)
+![Selenium](https://img.shields.io/badge/Selenium-0d1117?style=for-the-badge&logo=selenium&logoColor=ffa657)
+![ChromeExt](https://img.shields.io/badge/Chrome_Extension-0d1117?style=for-the-badge&logo=googlechrome&logoColor=79c0ff)
 ![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=e6edf3)
-![Selenium](https://img.shields.io/badge/Selenium-0d1117?style=for-the-badge&logo=selenium&logoColor=3fb950)
-![BeautifulSoup4](https://img.shields.io/badge/BeautifulSoup4-0d1117?style=for-the-badge&logo=python&logoColor=ffa657)
-![Requests](https://img.shields.io/badge/Requests-0d1117?style=for-the-badge&logo=python&logoColor=bc8cff)
-![WebClone](https://img.shields.io/badge/Website_Cloning-0d1117?style=for-the-badge&logo=googlechrome&logoColor=79c0ff)
+![WordPress](https://img.shields.io/badge/WordPress-0d1117?style=for-the-badge&logo=wordpress&logoColor=21759B)
+![BeautifulSoup4](https://img.shields.io/badge/BeautifulSoup4-0d1117?style=for-the-badge&logo=python&logoColor=bc8cff)
+![WebClone](https://img.shields.io/badge/Website_Cloning-0d1117?style=for-the-badge&logo=googlechrome&logoColor=388bfd)
 ![Facebook](https://img.shields.io/badge/Facebook_Automation-0d1117?style=for-the-badge&logo=facebook&logoColor=1877F2)
 
 </div>
@@ -68,7 +72,8 @@
 
 <div align="center">
 
-![Telegram](https://img.shields.io/badge/Telegram_Bot_%2F_Channel_%2F_Group-0d1117?style=for-the-badge&logo=telegram&logoColor=26A5E4)
+![Telethon](https://img.shields.io/badge/Telethon_%2F_Pyrogram-0d1117?style=for-the-badge&logo=telegram&logoColor=26A5E4)
+![TelegramBot](https://img.shields.io/badge/Telegram_Bot_%2F_Channel_%2F_Group-0d1117?style=for-the-badge&logo=telegram&logoColor=26A5E4)
 ![Zalo](https://img.shields.io/badge/Zalo_Dev-0d1117?style=for-the-badge&logo=zalo&logoColor=0068FF)
 ![ADS](https://img.shields.io/badge/Ads_Automation-0d1117?style=for-the-badge&logo=googleads&logoColor=ffa657)
 
@@ -80,10 +85,11 @@
 
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-0d1117?style=for-the-badge&logo=openai&logoColor=3fb950)
 ![Gemini](https://img.shields.io/badge/Gemini_API-0d1117?style=for-the-badge&logo=google&logoColor=388bfd)
-![OCR](https://img.shields.io/badge/PaddleOCR-0d1117?style=for-the-badge&logo=python&logoColor=ffa657)
+![Claude](https://img.shields.io/badge/Claude_API-0d1117?style=for-the-badge&logo=anthropic&logoColor=e6edf3)
+![OCR](https://img.shields.io/badge/PaddleOCR_%2F_ddddocr-0d1117?style=for-the-badge&logo=python&logoColor=ffa657)
+![OpenCV](https://img.shields.io/badge/OpenCV-0d1117?style=for-the-badge&logo=opencv&logoColor=5C3EE8)
 ![CRNN](https://img.shields.io/badge/CRNN_%2F_PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=f85149)
 ![TTS](https://img.shields.io/badge/Voice_Cloning_%2F_TTS-0d1117?style=for-the-badge&logo=soundcloud&logoColor=bc8cff)
-![Pillow](https://img.shields.io/badge/Image_Processing-0d1117?style=for-the-badge&logo=python&logoColor=e3b341)
 ![Training](https://img.shields.io/badge/AI_Model_Training-0d1117?style=for-the-badge&logo=tensorflow&logoColor=ffa657)
 
 </div>
@@ -93,9 +99,11 @@
 <div align="center">
 
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=79c0ff)
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=e3b341)
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=f85149)
+![Linux](https://img.shields.io/badge/Linux_%2F_VPS-0d1117?style=for-the-badge&logo=linux&logoColor=e3b341)
+![Cloudflare](https://img.shields.io/badge/Cloudflare_Tunnel-0d1117?style=for-the-badge&logo=cloudflare&logoColor=F6821F)
+![SSH](https://img.shields.io/badge/SSH_%2F_Server_Admin-0d1117?style=for-the-badge&logo=gnubash&logoColor=3fb950)
 ![Coolify](https://img.shields.io/badge/Coolify-0d1117?style=for-the-badge&logo=server&logoColor=bc8cff)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=f85149)
 ![SQLite](https://img.shields.io/badge/SQLite-0d1117?style=for-the-badge&logo=sqlite&logoColor=79c0ff)
 
 </div>
