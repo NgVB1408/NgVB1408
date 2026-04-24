@@ -128,7 +128,7 @@
 | | |
 |:---:|:---|
 | 📅 | Code từ **tháng 7/2024** — chưa đầy 2 năm |
-| 🚀 | **200+ dự án** hoàn chỉnh, đa lĩnh vực |
+| 🚀 | Hơn **200 sản phẩm** hoàn thiện — Web · Desktop · Bot · AI · Security · Automation |
 | 📣 | **100+ chiến dịch quảng cáo** — Facebook · Google · Telegram · TikTok |
 | 🔓 | Mở khóa & vận hành: Sàn điện tử · Facebook · Telegram |
 | 🧠 | Một mình từ ý tưởng → sản phẩm chạy production |
