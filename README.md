@@ -1,169 +1,221 @@
 <div align="center">
 
-<img src="./banner.svg" width="100%"/>
+<img src="./banner.svg" width="100%" alt="Banner"/>
 
-</div>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=C9A227&center=true&vCenter=true&width=700&lines=Python+%7C+Node.js+%7C+Docker+%7C+AI;Automation+%7C+Security+%7C+Full-Stack;Hoc%2C+hoc+nua%2C+hoc+mai.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=C9A227&center=true&vCenter=true&width=900&lines=Full-Stack+Developer+%7C+AI+Engineer;Automation+%7C+Security+%7C+DevOps;Turning+Ideas+Into+Production+Reality)](https://github.com/NgVB1408)
 
 </div>
 
 ---
 
-## 🧑‍💻 Về tôi / About Me
-
 <div align="center">
 
-🇻🇳 Vietnam
+### 🇻🇳 Vietnam-based Developer | 🚀 Entrepreneur | 💡 Problem Solver
 
 </div>
 
 ---
 
-## 🛠 Kỹ năng & Công nghệ / Skills & Tech Stack
+## 🧑‍💻 About Me
 
-<details>
-<summary><b>💻 Ngôn ngữ / Languages</b></summary>
-<br/>
-<div align="center">
+<div align="left">
 
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=c9a227)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=e3b341)
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=3fb950)
-![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=f85149)
-![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=79c0ff)
-![Swift](https://img.shields.io/badge/iOS_Dev-0d1117?style=for-the-badge&logo=swift&logoColor=f85149)
-![Android](https://img.shields.io/badge/Android_Dev-0d1117?style=for-the-badge&logo=android&logoColor=3fb950)
-
-</div>
-</details>
-
-<details>
-<summary><b>🖥 Desktop & GUI</b></summary>
-<br/>
-<div align="center">
-
-![PyQt5](https://img.shields.io/badge/PyQt5-0d1117?style=for-the-badge&logo=qt&logoColor=3fb950)
-![Tkinter](https://img.shields.io/badge/Tkinter-0d1117?style=for-the-badge&logo=python&logoColor=ffa657)
-![PyInstaller](https://img.shields.io/badge/PyInstaller_%2F_EXE-0d1117?style=for-the-badge&logo=python&logoColor=c9a227)
+```
+┌─ PROFESSIONAL PROFILE ──────────────────────────────────┐
+│                                                          │
+│  • Full-Stack Developer with 8+ months intensive exp.   │
+│  • Shipped 200+ production-ready products              │
+│  • Specialized in Web, Desktop, Bots, AI & Security    │
+│  • 100+ successful marketing campaigns executed        │
+│  • Solo: Concept → Development → Deployment            │
+│  • Tech Lead mentality with startup experience         │
+│                                                          │
+└────────────────────────────────────────────────────────┘
+```
 
 </div>
-</details>
-
-<details>
-<summary><b>🌐 Web & Automation</b></summary>
-<br/>
-<div align="center">
-
-![Playwright](https://img.shields.io/badge/Playwright-0d1117?style=for-the-badge&logo=playwright&logoColor=3fb950)
-![Puppeteer](https://img.shields.io/badge/Puppeteer-0d1117?style=for-the-badge&logo=puppeteer&logoColor=40B5A4)
-![Selenium](https://img.shields.io/badge/Selenium-0d1117?style=for-the-badge&logo=selenium&logoColor=ffa657)
-![ChromeExt](https://img.shields.io/badge/Chrome_Extension-0d1117?style=for-the-badge&logo=googlechrome&logoColor=79c0ff)
-![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=e6edf3)
-![WordPress](https://img.shields.io/badge/WordPress-0d1117?style=for-the-badge&logo=wordpress&logoColor=21759B)
-![BeautifulSoup4](https://img.shields.io/badge/BeautifulSoup4-0d1117?style=for-the-badge&logo=python&logoColor=bc8cff)
-![WebClone](https://img.shields.io/badge/Website_Cloning-0d1117?style=for-the-badge&logo=googlechrome&logoColor=c9a227)
-![Facebook](https://img.shields.io/badge/Facebook_Automation-0d1117?style=for-the-badge&logo=facebook&logoColor=1877F2)
-
-</div>
-</details>
-
-<details>
-<summary><b>📱 Messaging & Social Platforms</b></summary>
-<br/>
-<div align="center">
-
-![Telethon](https://img.shields.io/badge/Telethon_%2F_Pyrogram-0d1117?style=for-the-badge&logo=telegram&logoColor=26A5E4)
-![TelegramBot](https://img.shields.io/badge/Telegram_Bot_%2F_Channel_%2F_Group-0d1117?style=for-the-badge&logo=telegram&logoColor=26A5E4)
-![FanpageFB](https://img.shields.io/badge/Fanpage_Facebook_Dev-0d1117?style=for-the-badge&logo=facebook&logoColor=1877F2)
-![Zalo](https://img.shields.io/badge/Zalo_Dev-0d1117?style=for-the-badge&logo=zalo&logoColor=0068FF)
-![ADS](https://img.shields.io/badge/Ads_Automation-0d1117?style=for-the-badge&logo=googleads&logoColor=ffa657)
-
-</div>
-</details>
-
-<details>
-<summary><b>🤖 AI & Machine Learning</b></summary>
-<br/>
-<div align="center">
-
-![OpenAI](https://img.shields.io/badge/OpenAI_API-0d1117?style=for-the-badge&logo=openai&logoColor=3fb950)
-![Gemini](https://img.shields.io/badge/Gemini_API-0d1117?style=for-the-badge&logo=google&logoColor=c9a227)
-![Claude](https://img.shields.io/badge/Claude_API-0d1117?style=for-the-badge&logo=anthropic&logoColor=e6edf3)
-![OCR](https://img.shields.io/badge/PaddleOCR_%2F_ddddocr-0d1117?style=for-the-badge&logo=python&logoColor=ffa657)
-![OpenCV](https://img.shields.io/badge/OpenCV-0d1117?style=for-the-badge&logo=opencv&logoColor=5C3EE8)
-![CRNN](https://img.shields.io/badge/CRNN_%2F_PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=f85149)
-![TTS](https://img.shields.io/badge/Voice_Cloning_%2F_TTS-0d1117?style=for-the-badge&logo=soundcloud&logoColor=bc8cff)
-![Training](https://img.shields.io/badge/AI_Model_Training-0d1117?style=for-the-badge&logo=tensorflow&logoColor=ffa657)
-
-</div>
-</details>
-
-<details>
-<summary><b>🔧 DevOps & Infrastructure</b></summary>
-<br/>
-<div align="center">
-
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=79c0ff)
-![Linux](https://img.shields.io/badge/Linux_%2F_VPS-0d1117?style=for-the-badge&logo=linux&logoColor=e3b341)
-![Cloudflare](https://img.shields.io/badge/Cloudflare_Tunnel-0d1117?style=for-the-badge&logo=cloudflare&logoColor=F6821F)
-![SSH](https://img.shields.io/badge/SSH_%2F_Server_Admin-0d1117?style=for-the-badge&logo=gnubash&logoColor=3fb950)
-![Coolify](https://img.shields.io/badge/Coolify-0d1117?style=for-the-badge&logo=server&logoColor=c9a227)
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=f85149)
-![SQLite](https://img.shields.io/badge/SQLite-0d1117?style=for-the-badge&logo=sqlite&logoColor=79c0ff)
-
-</div>
-</details>
-
-<details>
-<summary><b>🔐 Cybersecurity</b></summary>
-<br/>
-<div align="center">
-
-![Pentest](https://img.shields.io/badge/Penetration_Testing-0d1117?style=for-the-badge&logo=hackthebox&logoColor=3fb950)
-![Android Security](https://img.shields.io/badge/Android_Security_Analysis-0d1117?style=for-the-badge&logo=android&logoColor=ffa657)
-![Reverse](https://img.shields.io/badge/Reverse_Engineering-0d1117?style=for-the-badge&logo=hackaday&logoColor=f85149)
-
-</div>
-</details>
 
 ---
 
-## ⚡ Kinh nghiệm / Experience
+## 💻 Tech Stack & Skills
+
+### 🔤 Programming Languages
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+</div>
+
+### 🎨 Frontend & UI
+<div align="center">
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+
+</div>
+
+### 🖥 Desktop & GUI Development
+<div align="center">
+
+![PyQt5](https://img.shields.io/badge/PyQt5-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-FFD43B?style=for-the-badge&logo=python&logoColor=black)
+![PyInstaller](https://img.shields.io/badge/PyInstaller-Executable-FF6B6B?style=for-the-badge&logo=python&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
+
+</div>
+
+### 🌐 Web Automation & Scraping
+<div align="center">
+
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![BeautifulSoup4](https://img.shields.io/badge/BeautifulSoup4-Python-3776ab?style=for-the-badge&logo=python&logoColor=white)
+![ChromeExt](https://img.shields.io/badge/Chrome_Extension-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
+
+</div>
+
+### 📱 Messaging & Social Platforms
+<div align="center">
+
+![Telegram](https://img.shields.io/badge/Telethon_Pyrogram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
+![TelegramBot](https://img.shields.io/badge/Telegram_Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
+![Facebook](https://img.shields.io/badge/Facebook_Automation-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
+![Zalo](https://img.shields.io/badge/Zalo_Dev-0068FF?style=for-the-badge&logo=zalo&logoColor=white)
+![GoogleAds](https://img.shields.io/badge/Ads_Automation-4285F4?style=for-the-badge&logo=googleads&logoColor=white)
+
+</div>
+
+### 🤖 AI & Machine Learning
+<div align="center">
+
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_API-1F4B3F?style=for-the-badge&logo=anthropic&logoColor=white)
+![OCR](https://img.shields.io/badge/PaddleOCR_ddddocr-3776ab?style=for-the-badge&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch_CRNN-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TTS](https://img.shields.io/badge/Voice_Cloning_TTS-FF6B6B?style=for-the-badge&logo=soundcloud&logoColor=white)
+
+</div>
+
+### 🔧 DevOps & Infrastructure
+<div align="center">
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux_VPS-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Cloudflare](https://img.shields.io/badge/Cloudflare_Tunnel-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Git](https://img.shields.io/badge/Git_GitHub-F05032?style=for-the-badge&logo=git&logoColor=white)
+![SSH](https://img.shields.io/badge/SSH_Server_Admin-000000?style=for-the-badge&logo=gnubash&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+</div>
+
+### 🔐 Cybersecurity
+<div align="center">
+
+![PentestingV](https://img.shields.io/badge/Penetration_Testing-FF6B35?style=for-the-badge&logo=hackthebox&logoColor=white)
+![AndroidSec](https://img.shields.io/badge/Android_Security_Analysis-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![ReverseEng](https://img.shields.io/badge/Reverse_Engineering-E74C3C?style=for-the-badge&logo=hackaday&logoColor=white)
+![WebSecurity](https://img.shields.io/badge/Web_Security-4B8BBE?style=for-the-badge&logo=https&logoColor=white)
+
+</div>
+
+---
+
+## 📊 Professional Highlights
 
 <div align="center">
 
-| | |
+| Metric | Achievement |
 |:---:|:---|
-| 📅 | Tham gia từ **tháng 7/2024** |
-| 🚀 | Hơn **200 sản phẩm** hoàn thiện — Web · Desktop · Bot · AI · Security · Automation |
-| 📣 | **100+ chiến dịch quảng cáo** — Facebook · Google · Telegram · TikTok |
-| 🔓 | Mở khóa & vận hành: Sàn điện tử · Facebook · Telegram |
-| 🧠 | Một mình từ ý tưởng → sản phẩm chạy production |
+| **📅 Experience** | Since July 2024 (8+ months intensive) |
+| **🏆 Shipped** | 200+ Production-Ready Products |
+| **📢 Campaigns** | 100+ Successful Marketing Initiatives |
+| **🎯 Specialization** | Full-Stack · Automation · AI · Security |
+| **⚡ Approach** | Solo: Concept to Production Deployment |
+| **📈 Growth** | Rapidly expanding skill-set & portfolio |
 
 </div>
 
 ---
 
-## 🚀 Dự án / Work
+## 🚀 Project Categories
 
 <div align="center">
 
-> 🇻🇳 Hầu hết các dự án là **riêng tư**. Contribution graph nói lên tất cả.  
-> 🇺🇸 Most work is **private**. The contribution graph speaks for itself.
+```
+┌─ WEB PROJECTS ──────────────┐  ┌─ DESKTOP APPS ──────────────┐
+│ • Full-stack web apps       │  │ • PyQt5 Applications        │
+│ • Next.js SPAs              │  │ • Tkinter Tools             │
+│ • WordPress sites           │  │ • Executable (PyInstaller)  │
+│ • Chrome Extensions         │  │ • Cross-platform Support    │
+│ • Real-time applications    │  │ • GUI Automation            │
+└─────────────────────────────┘  └─────────────────────────────┘
+
+┌─ AUTOMATION & BOTS ─────────┐  ┌─ AI SOLUTIONS ──────────────┐
+│ • Web Scraping              │  │ • LLM Integration           │
+│ • Bot Development           │  │ • OCR Systems               │
+│ • Task Automation           │  │ • Computer Vision           │
+│ • Social Media Bots         │  │ • Voice Cloning             │
+│ • API Integration           │  │ • Model Training            │
+└─────────────────────────────┘  └─────────────────────────────┘
+
+┌─ SECURITY ──────────────────┐  ┌─ DEVOPS ────────────────────┐
+│ • Penetration Testing       │  │ • Docker Containerization   │
+│ • Android Security          │  │ • Linux Server Admin        │
+│ • Reverse Engineering       │  │ • Cloudflare Tunneling      │
+│ • Vulnerability Assessment  │  │ • CI/CD Pipelines           │
+│ • Code Audit                │  │ • Database Management       │
+└─────────────────────────────┘  └─────────────────────────────┘
+```
 
 </div>
 
 ---
 
-## 📬 Liên hệ / Contact
+## 📈 GitHub Statistics
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-@leader8388-0d1117?style=for-the-badge&logo=telegram&logoColor=26A5E4)](https://t.me/leader8388)
-[![Email](https://img.shields.io/badge/Email-vbao89660@gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:vbao89660@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=NgVB1408&style=for-the-badge&color=c9a227)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NgVB1408&layout=compact&theme=dark&title_color=c9a227&bg_color=0d1117)
+
+</div>
+
+---
+
+## 🎯 Why Work With Me?
+
+<div align="center">
+
+✅ **Full-Stack Capability** — From concept to production deployment  
+✅ **Quality Focused** — Production-ready code with best practices  
+✅ **Fast Iteration** — Rapid development & deployment cycles  
+✅ **Problem Solver** — Creative solutions to complex challenges  
+✅ **Tech Versatility** — Diverse tech stack for any project  
+✅ **Self-Driven** — Minimal supervision, maximum productivity  
+
+</div>
+
+---
+
+## 📬 Let's Connect
+
+<div align="center">
+
+[![Telegram](https://img.shields.io/badge/Telegram-@leader8388-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/leader8388)
+[![Email](https://img.shields.io/badge/Email-vbao89660%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vbao89660@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-NgVB1408-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NgVB1408)
 
 </div>
 
@@ -171,8 +223,8 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c9a227,25:8b4500,60:3d1000,100:0d1117&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c9a227,25:8b4500,60:3d1000,100:0d1117&height=120&section=footer" width="100%" alt="Footer"/>
 
-*"Thà bỏ người yêu chứ không thể bỏ Code."*
+**_"Excellence is not an act, but a habit. Code is poetry in production._"**
 
 </div>
