@@ -206,14 +206,6 @@
 
 </div>
 
-### 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/NgVB1408/NgVB1408/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="line"/>
 
 ## 🎯 Tại sao chọn mình
@@ -226,6 +218,22 @@
 ✅ **Tech stack rộng** — chọn đúng tool cho từng bài toán  
 ✅ **Tự vận hành** — không cần micromanage  
 ✅ **Giữ kín** — khách yêu cầu NDA, không bao giờ public  
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="line"/>
+
+## 🐍 Snake Game · Contribution
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NgVB1408/NgVB1408/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NgVB1408/NgVB1408/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/NgVB1408/NgVB1408/output/github-contribution-grid-snake.svg">
+</picture>
+
+<sub>🐍 Snake bò ăn contribution dot mỗi ngày · auto-update 12h/lần qua GitHub Action</sub>
 
 </div>
 
