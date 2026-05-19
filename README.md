@@ -1,62 +1,191 @@
 <div align="center">
 
-<img src="./banner.svg" width="100%" alt="Vinny Nguyễn"/>
+<img src="./banner.svg" width="100%" alt="Banner"/>
 
-# Vinny Nguyễn
-
-**Builder ở Việt Nam · Sản phẩm production · Solo end-to-end**
-
-[💬 Telegram @Leader8388](https://t.me/leader8388) · ngvanbitkg1@gmail.com
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=C9A227&center=true&vCenter=true&width=900&lines=Full-Stack+Developer+%7C+AI+Engineer;Automation+%7C+Security+%7C+DevOps;Bi%E1%BA%BFn+%C3%BD+t%C6%B0%E1%BB%9Fng+th%C3%A0nh+s%E1%BA%A3n+ph%E1%BA%A9m+production)](https://github.com/NgVB1408)
 
 </div>
 
 ---
 
-## Mình làm gì
+<div align="center">
 
-Build sản phẩm production — solo end-to-end từ kiến trúc → code → deploy → vận hành.
+### 🇻🇳 Builder ở Việt Nam | 🚀 Entrepreneur | 💡 Problem Solver
 
-Khách trả tiền, hệ thống chạy thật trên domain riêng, không phải demo.
+</div>
 
 ---
 
-## 🎯 Có thể giúp bạn gì
+## 🧑‍💻 Giới thiệu
 
-**🤖 Tự động hoá**
-- Bot Telegram đa kênh — account manager, forward, broadcast, anti-spam, anti-ban
-- Scraping + crawling — Playwright, captcha bypass, proxy rotation, jitter human-like
-- RPA / desktop automation — auto fill form, auto submit, auto post
+<div align="left">
 
-**🌐 Web app full-stack**
-- Booking system, e-commerce, dashboard quản trị
-- Tích hợp payment Việt Nam — VietQR, SePay, MoMo, Banking API (VCB, MB, TPB)
-- Deploy Cloudflare Pages + D1 + R2 + Workers (free tier production-grade)
+```
+┌─ HỒ SƠ CHUYÊN MÔN ──────────────────────────────────────┐
+│                                                          │
+│  • Full-Stack Developer · solo end-to-end               │
+│  • Đã ship 200+ sản phẩm production                     │
+│  • Web · Desktop · Bot · AI · Security                  │
+│  • 100+ chiến dịch marketing đã chạy thành công         │
+│  • Khách trả tiền, hệ thống chạy thật trên domain riêng │
+│  • Concept → Kiến trúc → Code → Deploy → Vận hành       │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
+```
 
-**🧠 Tích hợp AI**
-- Chatbot AI multi-persona (OpenAI, Claude, Gemini, Ollama self-host)
-- RAG search trên corpus riêng (ChromaDB, Whisper STT cho voice)
-- Content automation pipeline (gen + audit + publish)
-- AI image enhancement (Stable Diffusion, ESRGAN)
+</div>
 
-**📱 Bot fintech / P2P**
-- Telegram bot điều phối P2P merchant (Binance/OKX/Bybit)
-- Auto-take, auto-withdraw API-first
-- Anti-ban: IP consistency, jitter, human-hours, bank rotation
+---
 
-**🖥 Desktop app**
-- PyQt5 / Electron GUI cho công cụ nội bộ
-- PyInstaller bundle .exe portable
-- System tray, hotkey, file watcher, screen capture
+## 💻 Tech Stack
 
-**🔍 Security tooling**
-- Audit / recon dashboard cho web property
-- Phân tích bảo mật mobile app, Android reverse
-- Captcha solver, Active Directory automation (authorized)
+### 🔤 Programming Languages
+<div align="center">
 
-**🚀 SEO automation**
-- Multi-agent pipeline: URL vào → site mới live trong vài phút
-- Lighthouse 90+, AI-detection < 15%
-- Clone + rebrand + deploy hạ tầng độc lập
+![Python](https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+</div>
+
+### 🎨 Frontend & UI
+<div align="center">
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+
+</div>
+
+### 🖥 Desktop & GUI
+<div align="center">
+
+![PyQt5](https://img.shields.io/badge/PyQt5-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-FFD43B?style=for-the-badge&logo=python&logoColor=black)
+![PyInstaller](https://img.shields.io/badge/PyInstaller-FF6B6B?style=for-the-badge&logo=python&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
+
+</div>
+
+### 🌐 Web Automation & Scraping
+<div align="center">
+
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![BeautifulSoup4](https://img.shields.io/badge/BeautifulSoup4-3776ab?style=for-the-badge&logo=python&logoColor=white)
+![ChromeExt](https://img.shields.io/badge/Chrome_Extension-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
+
+</div>
+
+### 📱 Messaging & Social
+<div align="center">
+
+![Telethon](https://img.shields.io/badge/Telethon_Pyrogram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
+![TelegramBot](https://img.shields.io/badge/Telegram_Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
+![Facebook](https://img.shields.io/badge/Facebook_Automation-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
+![Zalo](https://img.shields.io/badge/Zalo_Dev-0068FF?style=for-the-badge&logo=zalo&logoColor=white)
+![GoogleAds](https://img.shields.io/badge/Ads_Automation-4285F4?style=for-the-badge&logo=googleads&logoColor=white)
+
+</div>
+
+### 🤖 AI & Machine Learning
+<div align="center">
+
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Anthropic_Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama_Self_Host-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB_RAG-FF6B6B?style=for-the-badge&logo=databricks&logoColor=white)
+![Whisper](https://img.shields.io/badge/Whisper_STT-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+</div>
+
+### ☁ Cloud & Infrastructure
+<div align="center">
+
+![Cloudflare](https://img.shields.io/badge/Cloudflare_Pages-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![CF Workers](https://img.shields.io/badge/CF_Workers_+_D1_+_R2-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![NATS](https://img.shields.io/badge/NATS-27AAE1?style=for-the-badge&logo=nats.io&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux_Server-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+### 💳 Payment VN
+<div align="center">
+
+![VietQR](https://img.shields.io/badge/VietQR-DA251D?style=for-the-badge&logo=qr-code&logoColor=white)
+![SePay](https://img.shields.io/badge/SePay-1F8B4C?style=for-the-badge&logoColor=white)
+![MoMo](https://img.shields.io/badge/MoMo-A50064?style=for-the-badge&logoColor=white)
+![Banking](https://img.shields.io/badge/Banking_API_VCB_MB_TPB-2196F3?style=for-the-badge&logoColor=white)
+
+</div>
+
+---
+
+## 📊 Điểm nổi bật
+
+<div align="center">
+
+| Chỉ số | Thành tích |
+|:---:|:---|
+| **📅 Kinh nghiệm** | Từ 07/2024 (8+ tháng intensive) |
+| **🏆 Đã ship** | 200+ sản phẩm production-ready |
+| **📢 Chiến dịch** | 100+ chiến dịch marketing chạy thành công |
+| **🎯 Chuyên môn** | Full-Stack · Automation · AI · Security |
+| **⚡ Cách làm** | Solo · concept → production deployment |
+| **🌐 Hạ tầng** | Cloudflare-first · self-host khi cần · Linux server |
+
+</div>
+
+---
+
+## 🚀 Mảng dự án có thể nhận
+
+<div align="center">
+
+```
+┌─ WEB PROJECTS ──────────────┐  ┌─ DESKTOP APPS ──────────────┐
+│ • Web app full-stack        │  │ • PyQt5 / Qt6 GUI           │
+│ • Next.js · SvelteKit SPA   │  │ • Tkinter tool nội bộ       │
+│ • WordPress + custom theme  │  │ • Bundle .exe PyInstaller   │
+│ • Chrome Extension MV3      │  │ • Cross-platform support    │
+│ • Realtime + SSE + WebSocket│  │ • System tray · hotkey      │
+└─────────────────────────────┘  └─────────────────────────────┘
+
+┌─ AUTOMATION & BOTS ─────────┐  ┌─ AI SOLUTIONS ──────────────┐
+│ • Web scraping + crawling   │  │ • LLM integration multi-API │
+│ • Bot Telegram + Discord    │  │ • RAG search trên corpus    │
+│ • RPA / form automation     │  │ • Computer vision · OCR     │
+│ • Social media bot          │  │ • Voice cloning · Whisper   │
+│ • API integration sâu       │  │ • AI image enhance pipeline │
+└─────────────────────────────┘  └─────────────────────────────┘
+
+┌─ SECURITY ──────────────────┐  ┌─ DEVOPS ────────────────────┐
+│ • Web app pentest           │  │ • Docker containerization   │
+│ • Android security audit    │  │ • Linux server admin        │
+│ • Reverse engineering       │  │ • Cloudflare Tunnel · DNS   │
+│ • Vulnerability assessment  │  │ • CI/CD GitHub Actions      │
+│ • Code audit · supply chain │  │ • Database backup · restore │
+└─────────────────────────────┘  └─────────────────────────────┘
+
+┌─ FINTECH / P2P ─────────────┐  ┌─ SEO AUTOMATION ────────────┐
+│ • Bot điều phối P2P USDT    │  │ • Multi-agent site builder  │
+│ • Anti-ban IP + jitter      │  │ • URL → site live vài phút  │
+│ • Auto-take · auto-withdraw │  │ • Lighthouse 90+ · AI < 15% │
+│ • Payment VN tích hợp sâu   │  │ • Clone + rebrand pipeline  │
+│ • Booking / order lifecycle │  │ • Hạ tầng độc lập per site  │
+└─────────────────────────────┘  └─────────────────────────────┘
+```
+
+</div>
 
 ---
 
@@ -72,28 +201,49 @@ Khách trả tiền, hệ thống chạy thật trên domain riêng, không ph�
 
 ---
 
-## 🛠 Stack hay dùng
+## 📈 GitHub Stats
 
-**Backend** Python · FastAPI · Node.js · Telethon · Playwright  
-**Frontend** Next.js · SvelteKit · React · TypeScript · Tailwind  
-**AI** OpenAI · Claude · Gemini · Ollama · ChromaDB · Whisper  
-**Infra** Cloudflare (Pages, Workers, D1, R2) · Docker · PostgreSQL · NATS · Temporal  
-**Desktop** PyQt5 · Electron · PyInstaller  
-**Payment VN** VietQR · SePay · MoMo · Banking API
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=NgVB1408&style=for-the-badge&color=c9a227)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NgVB1408&layout=compact&theme=dark&title_color=c9a227&bg_color=0d1117)
+
+</div>
 
 ---
 
-## 💬 Hợp tác
+## 🎯 Tại sao chọn mình
 
-- 💬 **[Telegram @Leader8388](https://t.me/leader8388)** — kênh nhanh nhất
-- ✉️ **ngvanbitkg1@gmail.com** — cho project formal
+<div align="center">
 
-Việt Nam · UTC+7 · remote toàn cầu
+✅ **Solo end-to-end** — concept → deploy production, không phụ thuộc team  
+✅ **Production-grade từ ngày đầu** — clean architecture, type safety, error handling  
+✅ **Ship nhanh, ship thật** — sản phẩm chạy live trên domain riêng, không demo  
+✅ **Hiểu thị trường Việt Nam** — payment VN, ngôn ngữ Việt, anti-ban thực chiến  
+✅ **Tech stack rộng** — chọn đúng tool cho từng bài toán  
+✅ **Tự vận hành** — không cần micromanage, báo cáo thường xuyên  
+
+</div>
+
+---
+
+## 📬 Liên hệ
+
+<div align="center">
+
+[![Telegram](https://img.shields.io/badge/Telegram-@leader8388-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/leader8388)
+[![Email](https://img.shields.io/badge/Email-ngvanbitkg1%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ngvanbitkg1@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-NgVB1408-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NgVB1408)
+
+</div>
 
 ---
 
 <div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=NgVB1408&style=flat-square&color=c9a227&label=Profile+views)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c9a227,25:8b4500,60:3d1000,100:0d1117&height=120&section=footer" width="100%" alt="Footer"/>
+
+**_"Code chạy thật mới là code. Sản phẩm ship được mới là sản phẩm."_**
 
 </div>
