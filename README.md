@@ -2,7 +2,7 @@
 
 <img src="./banner.svg" width="100%" alt="Banner"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&color=C9A227&center=true&vCenter=true&width=900&lines=%E2%9A%94+%C4%90%C6%A1n+Th%C6%B0%C6%A1ng+%C4%90%E1%BB%99c+M%C3%A3+%E2%9A%94;%F0%9F%90%8E+M%E1%BB%99t+M%C3%ACnh+M%E1%BB%99t+Ng%E1%BB%B1a;Solo+Builder+%C2%B7+Concept+%E2%86%92+Production;Full-Stack+%C2%B7+Automation+%C2%B7+AI+%C2%B7+Security)](https://github.com/NgVB1408)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&color=C9A227&center=true&vCenter=true&width=900&lines=%E2%9A%94+%C4%90%C6%A1n+Th%C6%B0%C6%A1ng+%C4%90%E1%BB%99c+M%C3%A3+%E2%9A%94;%F0%9F%90%8E+M%E1%BB%99t+M%C3%ACnh+M%E1%BB%99t+Ng%E1%BB%B1a;Full-Stack+%C2%B7+Automation+%C2%B7+AI+%C2%B7+Security)](https://github.com/NgVB1408)
 
 </div>
 
@@ -21,14 +21,13 @@
 <div align="left">
 
 ```
-┌─ HỒ SƠ CHUYÊN MÔN ──────────────────────────────────────┐
+┌─ HỒ SƠ ──────────────────────────────────────────────────┐
 │                                                          │
-│  • Full-Stack Developer · solo end-to-end               │
-│  • Đã ship 200+ sản phẩm production                     │
+│  • Full-Stack · Solo end-to-end                         │
+│  • 200+ dự án đã giao                                   │
 │  • Web · Desktop · Bot · AI · Security                  │
-│  • 100+ chiến dịch marketing đã chạy thành công         │
-│  • Khách trả tiền, hệ thống chạy thật trên domain riêng │
-│  • Concept → Kiến trúc → Code → Deploy → Vận hành       │
+│  • 100+ chiến dịch marketing                            │
+│  • Kiến trúc · code · deploy · vận hành                 │
 │                                                          │
 └──────────────────────────────────────────────────────────┘
 ```
@@ -134,14 +133,14 @@
 
 <div align="center">
 
-| Chỉ số | Thành tích |
+| Chỉ số | |
 |:---:|:---|
-| **📅 Kinh nghiệm** | Từ 07/2024 (8+ tháng intensive) |
-| **🏆 Đã ship** | 200+ sản phẩm production-ready |
-| **📢 Chiến dịch** | 100+ chiến dịch marketing chạy thành công |
+| **📅 Kinh nghiệm** | Từ 07/2024 |
+| **🏆 Dự án** | 200+ |
+| **📢 Chiến dịch** | 100+ |
 | **🎯 Chuyên môn** | Full-Stack · Automation · AI · Security |
-| **⚡ Cách làm** | Solo · concept → production deployment |
-| **🌐 Hạ tầng** | Cloudflare-first · self-host khi cần · Linux server |
+| **⚡ Cách làm** | Solo end-to-end |
+| **🌐 Hạ tầng** | Cloudflare · self-host · Linux |
 
 </div>
 
@@ -217,12 +216,12 @@
 
 <div align="center">
 
-✅ **Solo end-to-end** — concept → deploy production, không phụ thuộc team  
-✅ **Production-grade từ ngày đầu** — clean architecture, type safety, error handling  
-✅ **Ship nhanh, ship thật** — sản phẩm chạy live trên domain riêng, không demo  
-✅ **Hiểu thị trường Việt Nam** — payment VN, ngôn ngữ Việt, anti-ban thực chiến  
+✅ **Solo end-to-end** — không phụ thuộc team  
+✅ **Code chuẩn từ đầu** — clean architecture · type safety · error handling  
+✅ **Hiểu thị trường VN** — payment, ngôn ngữ, anti-ban thực chiến  
 ✅ **Tech stack rộng** — chọn đúng tool cho từng bài toán  
-✅ **Tự vận hành** — không cần micromanage, báo cáo thường xuyên  
+✅ **Tự vận hành** — không cần micromanage  
+✅ **Giữ kín** — khách yêu cầu NDA, không bao giờ public  
 
 </div>
 
@@ -244,7 +243,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:c9a227,25:8b4500,60:3d1000,100:0d1117&height=120&section=footer" width="100%" alt="Footer"/>
 
-**_"Đơn Thương Độc Mã · Một Mình Một Ngựa_**  
-**_Vạn lý trường chinh — code chạy thật trên domain riêng."_**
+**_⚔ Đơn Thương Độc Mã · Một Mình Một Ngựa ⚔_**
 
 </div>
