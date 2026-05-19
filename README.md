@@ -13,8 +13,6 @@
 
 # Vinny Nguyễn
 
-### ⚔ Đơn Thương Độc Mã · 🐎 Một Mình Một Ngựa · 🇻🇳 Việt Nam
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&color=C9A227&center=true&vCenter=true&width=900&lines=Developer+Full-Stack;%E2%9A%94+%C4%90%C6%A1n+Th%C6%B0%C6%A1ng+%C4%90%E1%BB%99c+M%C3%A3+%E2%9A%94;%F0%9F%90%8E+M%E1%BB%99t+M%C3%ACnh+M%E1%BB%99t+Ng%E1%BB%B1a;Full-Stack+%C2%B7+Automation+%C2%B7+AI+%C2%B7+Security)](https://github.com/NgVB1408)
 
 ![Projects](https://img.shields.io/badge/D%E1%BB%B0_%C3%81N-200%2B-c9a227?style=for-the-badge&labelColor=0d1117)
