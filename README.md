@@ -1,15 +1,6 @@
 <div align="center">
 
-<table border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td align="center" valign="middle">
-  <img src="https://avatars.githubusercontent.com/u/176841602?s=400&v=4" width="240" alt="Vinny avatar" style="border-radius:50%; border:4px solid #c9a227;"/>
-</td>
-<td align="center" valign="middle">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="320" alt="Đang code"/>
-</td>
-</tr>
-</table>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="380" alt="Vinny đang code"/>
 
 # Vinny Nguyễn
 
