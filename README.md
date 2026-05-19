@@ -322,9 +322,171 @@
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎟 Ticket / Sự kiện sniper
+- Auto-buy vé concert, vé sự kiện
+- Săn slot Ticketbox / Vexere
+- Phân tích lịch mở bán, alert
+- Captcha solver tích hợp sẵn
+
+</td>
+<td width="50%" valign="top">
+
+### 📅 Booking & Lịch hẹn
+- Đặt phòng homestay / khách sạn
+- Phòng khám, salon, spa
+- Lịch tư vấn 1-on-1
+- Sync Google Calendar / Outlook
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎓 Education / LMS
+- Khoá học online, quiz, certificate
+- Bài kiểm tra tự chấm điểm
+- Tracking học viên, leaderboard
+- Tích hợp Zoom / Meet
+
+</td>
+<td width="50%" valign="top">
+
+### 📺 Livestream & Social media
+- Bot Shopee Live, TikTok Live
+- Auto reply comment, gửi link
+- Alert mention, trending hashtag
+- Upload short video hàng loạt
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💼 CRM & Sales Pipeline
+- Kanban deal, leads nurturing
+- Auto follow-up qua Zalo/SMS
+- Lead enrichment từ data nguồn
+- Báo cáo conversion funnel
+
+</td>
+<td width="50%" valign="top">
+
+### 📑 Document automation
+- Tạo PDF hợp đồng, hoá đơn
+- Trộn dữ liệu mail merge
+- Ký số điện tử, watermark
+- Trích xuất bảng từ ảnh / PDF (OCR)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌍 Đa ngôn ngữ / Localization
+- Dịch nội dung vi · en · zh · ja · ko
+- i18n web app, app mobile
+- Auto-translate caption / sub
+- Kiểm tra ngữ pháp AI
+
+</td>
+<td width="50%" valign="top">
+
+### 🔐 KYC / Xác minh danh tính
+- Scan CCCD, hộ chiếu (OCR)
+- Face match, liveness detection
+- Anti-fraud, phát hiện giấy tờ giả
+- Lưu encrypted, GDPR-friendly
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📨 Email & Cold outreach
+- Email warmup ổn định inbox
+- Drip campaign theo hành vi
+- Cold mail B2B + lead enrichment
+- Tracking open/click/reply
+
+</td>
+<td width="50%" valign="top">
+
+### 📱 Mobile / ADB automation
+- Auto Android qua ADB / scrcpy
+- LDPlayer / BlueStacks farm
+- Multi-device app testing
+- Inject script vào app, hook API
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 AI Agent đa-tầng
+- Agent đa-bước (Claude/GPT)
+- Multi-persona chatbot
+- Code reviewer / pair-programming AI
+- Auto research → summary → report
+
+</td>
+<td width="50%" valign="top">
+
+### 🧾 POS / F&B
+- Phần mềm bán hàng quán café/nhà hàng
+- Kitchen display order
+- Menu QR scan, đặt món tại bàn
+- Tích hợp máy in bill, ngân hàng
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏘 Bất động sản
+- Web đăng tin, lọc theo bản đồ
+- Crawl tin từ batdongsan / chotot
+- Enhance ảnh BĐS AI tự động
+- Tour 360, panorama virtual
+
+</td>
+<td width="50%" valign="top">
+
+### 🎥 Livestream tự động
+- Stream video lên YouTube/FB 24/7
+- Loop video, auto schedule
+- Multi-stream cùng lúc (restream)
+- OBS / ffmpeg orchestration
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔔 Notification & Alert hệ thống
+- Telegram / Slack / Discord webhook
+- SMS gateway VN (eSMS, SpeedSMS)
+- Push notification Web/Mobile
+- Escalation chain on-call
+
+</td>
+<td width="50%" valign="top">
+
+### 📈 Data scraping & Analytics
+- Crawl giá đối thủ (Shopee, Tiki)
+- Theo dõi review, sentiment
+- ETL pipeline + data warehouse
+- Visualization (Metabase, Grafana)
+
+</td>
+</tr>
 </table>
 
 </div>
+
+<sub align="center">_… và nhiều mảng khác — ping Telegram bàn cụ thể._</sub>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="line"/>
 
