@@ -2,58 +2,60 @@
 
 <img src="./banner.svg" width="100%" alt="Vinny Nguyễn"/>
 
-# Chào bạn 👋
+# Vinny Nguyễn
 
-Mình là **Vinny**, coder ở Việt Nam.
+**Builder ở Việt Nam · Sản phẩm production · Solo end-to-end**
 
-[💬 Telegram @Leader8388](https://t.me/leader8388) · ✉️ luvdraco88@gmail.com
+[💬 Telegram @Leader8388](https://t.me/leader8388) · ngvanbitkg1@gmail.com
 
 </div>
 
 ---
 
-## 🌱 Mình đang làm gì
+## Mình làm gì
 
-Hay code linh tinh — bot Telegram, web app nhỏ, vài công cụ tự động hoá, vài thử nghiệm với AI.
+Build sản phẩm production — bot tự động hoá, web app, hệ thống tích hợp AI, công cụ scraping/automation, desktop app, deploy hạ tầng.
 
-Phần lớn project là solo, làm dần dần buổi tối. Có cái dùng được, có cái còn dở, có cái bỏ giữa chừng. Học mỗi ngày một chút.
+Hầu hết là solo end-to-end: concept → kiến trúc → code → deploy → vận hành.  
+Khách trả tiền, hệ thống chạy thật trên domain riêng, không phải demo.
 
-Nếu có gì hay ho hoặc muốn bàn project, ghé Telegram chơi nhé 🌿
+Một phần repo public ở đây. Phần lớn closed-source phía sau, vận hành cho khách.
 
 ---
 
-## 🎥 Video demo
-
-> Vài thứ mình đang chạy thử:
+## 🎥 Demo
 
 <div align="center">
 
-[![Demo](https://img.youtube.com/vi/PLACEHOLDER_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=PLACEHOLDER_VIDEO_ID)
+[![Demo Reel](https://img.youtube.com/vi/PLACEHOLDER_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=PLACEHOLDER_VIDEO_ID)
 
 </div>
 
-> 📌 _Khi quay xong demo: thay `PLACEHOLDER_VIDEO_ID` bằng ID YouTube (ví dụ `dQw4w9WgXcQ`). OBS / Loom / ScreenToGif ghi đều ổn._
+> _Thay `PLACEHOLDER_VIDEO_ID` bằng ID YouTube khi video sẵn sàng (vd `dQw4w9WgXcQ`)._
 
 ---
 
-## 🛠 Hay dùng
+## 🛠 Stack
 
-Python · FastAPI · Next.js · SvelteKit · TypeScript · Telethon · Playwright · Cloudflare Pages/Workers/D1 · OpenAI/Claude/Gemini · PyQt5 · Electron · VietQR/MoMo/Banking VN
-
-Chọn vài thứ làm tốt, không tham nhiều.
+**Backend & Automation** Python · FastAPI · Node.js · Telethon · Playwright · asyncio  
+**Frontend** Next.js · SvelteKit · React · TypeScript · Tailwind · shadcn/ui  
+**AI** OpenAI · Anthropic Claude · Google Gemini · Ollama (self-host) · ChromaDB RAG · Whisper STT  
+**Infra** Cloudflare Pages + Workers + D1 + R2 · Docker · PostgreSQL · NATS · MinIO · Temporal  
+**Desktop** PyQt5 · Electron · PyInstaller  
+**Payment VN** VietQR · SePay · MoMo · Banking API (VCB, MB, TPB)
 
 ---
 
-## ✨ Vài project
+## ✨ Public projects
 
-| Repo | Là gì |
+| Repo | |
 |---|---|
-| [seo-empire](https://github.com/NgVB1408/seo-empire) | Multi-agent SEO automation — dán URL ra site mới trên Cloudflare |
-| [hydra-desk](https://github.com/NgVB1408/hydra-desk) | Telegram bot P2P USDT/VND cho Binance/OKX/Bybit |
-| [autoenhance](https://github.com/NgVB1408/autoenhance) | Clone open-source autoenhance.ai cho ảnh bất động sản |
-| [adtk-suite](https://github.com/NgVB1408/adtk-suite) | Gộp vài tool audit security trong 1 GUI |
+| [seo-empire](https://github.com/NgVB1408/seo-empire) | Multi-agent SEO automation — URL vào, site mới live trên Cloudflare, 10 AI agent phối hợp qua NATS bus |
+| [hydra-desk](https://github.com/NgVB1408/hydra-desk) | Telegram P2P merchant desk — điều phối order USDT/VND trên 3 sàn lớn, anti-ban, auto-take/withdraw |
+| [autoenhance](https://github.com/NgVB1408/autoenhance) | AI enhance ảnh bất động sản — self-host open-source clone của autoenhance.ai |
+| [adtk-suite](https://github.com/NgVB1408/adtk-suite) | Security audit launcher — gộp 10+ tool vào 1 GUI duy nhất |
 
-Còn nhiều cái dang dở trong tab "Repositories" — bạn ghé xem nếu thích.
+Closed-source: bot vận hành, fintech automation, hệ thống nội bộ cho khách — không public.
 
 ---
 
@@ -68,20 +70,16 @@ Còn nhiều cái dang dở trong tab "Repositories" — bạn ghé xem nếu th
 
 ---
 
-## 💬 Liên hệ
+## 💬 Hợp tác
 
-Online giờ Việt Nam (UTC+7). Telegram nhanh nhất.
+- 💬 **[Telegram @Leader8388](https://t.me/leader8388)** — kênh nhanh nhất
+- ✉️ **ngvanbitkg1@gmail.com** — cho project formal hoặc gửi tài liệu
 
-- 💬 **[Telegram @Leader8388](https://t.me/leader8388)**
-- ✉️ **luvdraco88@gmail.com**
-
-Cảm ơn bạn ghé qua nha 🌱
+Việt Nam · UTC+7 · remote toàn cầu
 
 ---
 
 <div align="center">
-
-_Học - Học nữa - Học mãi_
 
 ![Profile views](https://komarev.com/ghpvc/?username=NgVB1408&style=flat-square&color=c9a227&label=Profile+views)
 
