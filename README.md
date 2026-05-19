@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" width="320" alt="Coding"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="380" alt="Vinny coding at PC"/>
 
 # Hi 👋, mình là **Vinny**
 
@@ -40,76 +40,6 @@
 </div>
 
 ---
-
-## 💻 `vinny.py`
-
-```python
-#!/usr/bin/env python3
-"""
-╔══════════════════════════════════════════════════════╗
-║  VINNY · Solo End-to-End Builder · v∞                ║
-║  concept → architecture → code → deploy → vận hành   ║
-╚══════════════════════════════════════════════════════╝
-"""
-import asyncio, os, random
-from playwright.async_api import async_playwright
-from telethon import TelegramClient
-from anthropic import AsyncAnthropic
-from cloudflare import Pages, D1, R2, Workers
-
-ai   = AsyncAnthropic(api_key=os.getenv("CLAUDE_API_KEY"))
-tg   = TelegramClient("vinny", os.getenv("TG_ID"), os.getenv("TG_HASH"))
-cf   = Pages(token=os.getenv("CF_TOKEN"))
-
-async def hunt(target: str):
-    async with async_playwright() as p:
-        browser = await p.chromium.launch(
-            headless=True,
-            proxy={"server": rotate_residential_proxy()},
-        )
-        ctx = await browser.new_context(
-            user_agent=human_ua(),
-            viewport=stealth_size(),
-            locale="vi-VN",
-        )
-        page = await ctx.new_page()
-        await page.add_init_script("Object.defineProperty(navigator,'webdriver',{get:()=>undefined})")
-        await page.goto(target, wait_until="networkidle")
-
-        intel  = await page.evaluate(RECON_SCRIPT)
-        plan   = await ai.messages.create(
-            model="claude-opus-4-7",
-            messages=[{"role": "user", "content": f"Audit + rebrand:\n{intel}"}],
-        )
-        bundle = await rebrand(intel, blueprint=plan.content[0].text)
-        domain = await cf.deploy(bundle, project=f"site-{slug()}")
-
-        await tg.send_message("me", f"✓ {domain} live · Lighthouse 90+ · AI <15%")
-        await browser.close()
-
-async def loop():
-    while True:
-        task = await tg.iter_messages(filter="hunt")
-        await hunt(task.url)
-        await asyncio.sleep(random.randint(30, 90))  # human jitter
-
-if __name__ == "__main__":
-    asyncio.run(loop())
-```
-
-```bash
-$ python vinny.py
-[*] Initializing async runtime...
-[+] Playwright stealth: webdriver cloaked
-[+] Proxy rotated: 103.x.x.x (VN residential)
-[+] Recon target: ████████.com — 47 endpoints mapped
-[+] Claude Opus: rebrand plan generated (4.2s)
-[+] Cloudflare Pages: bundle deployed → ████-████.pages.dev
-[+] Custom domain attached · SSL active
-[OK] Site live · Lighthouse 94 · AI detection 11%
-```
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="line"/>
 
 ## 🛠 Tech Stack
 
