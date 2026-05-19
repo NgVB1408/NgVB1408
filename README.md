@@ -1,16 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c9a227,40:8b4500,80:3d1000,100:0d1117&height=180&section=header&text=Vinny%20Nguy%E1%BB%85n&fontColor=fff5dc&fontSize=58&animation=fadeIn&fontAlignY=38&desc=%E2%9A%94%20%C4%90%C6%A1n%20Th%C6%B0%C6%A1ng%20%C4%90%E1%BB%99c%20M%C3%A3%20%C2%B7%20M%E1%BB%99t%20M%C3%ACnh%20M%E1%BB%99t%20Ng%E1%BB%B1a%20%E2%9A%94&descAlignY=58&descSize=18&descColor=e7d3a8" width="100%" alt="Header"/>
-
-</div>
-
-<div align="center">
-
 <a href="https://github.com/NgVB1408">
-<img src="https://avatars.githubusercontent.com/u/176841602?s=320&v=4" width="220" alt="Vinny avatar" style="border-radius:50%; border:3px solid #c9a227;"/>
+  <img src="https://avatars.githubusercontent.com/u/176841602?s=400&v=4" width="240" alt="Vinny avatar" style="border-radius:50%; border:4px solid #c9a227;"/>
 </a>
 
-# Hi 👋, mình là **Vinny**
+# Vinny Nguyễn
+
+### ⚔ Đơn Thương Độc Mã · 🐎 Một Mình Một Ngựa · 🇻🇳 Việt Nam
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&color=C9A227&center=true&vCenter=true&width=900&lines=Developer+Full-Stack;%E2%9A%94+%C4%90%C6%A1n+Th%C6%B0%C6%A1ng+%C4%90%E1%BB%99c+M%C3%A3+%E2%9A%94;%F0%9F%90%8E+M%E1%BB%99t+M%C3%ACnh+M%E1%BB%99t+Ng%E1%BB%B1a;Full-Stack+%C2%B7+Automation+%C2%B7+AI+%C2%B7+Security)](https://github.com/NgVB1408)
 
