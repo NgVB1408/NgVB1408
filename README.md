@@ -15,21 +15,32 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="line"/>
 
-## 🧑‍💻 Giới thiệu
+<h2 align="center">🧑‍💻 Giới thiệu</h2>
 
-<div align="left">
+<div align="center">
 
-```
-┌─ HỒ SƠ ──────────────────────────────────────────────────┐
-│                                                          │
-│  • Full-Stack · Solo end-to-end                         │
-│  • 200+ dự án đã giao                                   │
-│  • Web · Desktop · Bot · AI · Security                  │
-│  • 100+ chiến dịch marketing                            │
-│  • Kiến trúc · code · deploy · vận hành                 │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
-```
+<table>
+<tr>
+<td align="center">⚡</td>
+<td align="left"><b>Full-Stack</b> · Solo end-to-end</td>
+</tr>
+<tr>
+<td align="center">🏆</td>
+<td align="left"><b>200+ dự án</b> đã giao</td>
+</tr>
+<tr>
+<td align="center">🛠</td>
+<td align="left"><b>Web · Desktop · Bot · AI · Security</b></td>
+</tr>
+<tr>
+<td align="center">📢</td>
+<td align="left"><b>100+ chiến dịch</b> marketing</td>
+</tr>
+<tr>
+<td align="center">🚀</td>
+<td align="left"><b>Kiến trúc · Code · Deploy · Vận hành</b></td>
+</tr>
+</table>
 
 </div>
 
