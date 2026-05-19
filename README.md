@@ -6,7 +6,9 @@
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="380" alt="Vinny coding at PC"/>
+<a href="https://github.com/NgVB1408">
+<img src="https://avatars.githubusercontent.com/u/176841602?s=320&v=4" width="220" alt="Vinny avatar" style="border-radius:50%; border:3px solid #c9a227;"/>
+</a>
 
 # Hi 👋, mình là **Vinny**
 
