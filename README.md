@@ -2,7 +2,7 @@
 
 <img src="./banner.svg" width="100%" alt="Banner"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=C9A227&center=true&vCenter=true&width=900&lines=Full-Stack+Developer+%7C+AI+Engineer;Automation+%7C+Security+%7C+DevOps;Bi%E1%BA%BFn+%C3%BD+t%C6%B0%E1%BB%9Fng+th%C3%A0nh+s%E1%BA%A3n+ph%E1%BA%A9m+production)](https://github.com/NgVB1408)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&color=C9A227&center=true&vCenter=true&width=900&lines=%E2%9A%94+%C4%90%C6%A1n+Th%C6%B0%C6%A1ng+%C4%90%E1%BB%99c+M%C3%A3+%E2%9A%94;%F0%9F%90%8E+M%E1%BB%99t+M%C3%ACnh+M%E1%BB%99t+Ng%E1%BB%B1a;Solo+Builder+%C2%B7+Concept+%E2%86%92+Production;Full-Stack+%C2%B7+Automation+%C2%B7+AI+%C2%B7+Security)](https://github.com/NgVB1408)
 
 </div>
 
@@ -10,7 +10,7 @@
 
 <div align="center">
 
-### 🇻🇳 Builder ở Việt Nam | 🚀 Entrepreneur | 💡 Problem Solver
+### ⚔ Đơn Thương Độc Mã · 🐎 Một Mình Một Ngựa · 🇻🇳 Việt Nam
 
 </div>
 
@@ -244,6 +244,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:c9a227,25:8b4500,60:3d1000,100:0d1117&height=120&section=footer" width="100%" alt="Footer"/>
 
-**_"Code chạy thật mới là code. Sản phẩm ship được mới là sản phẩm."_**
+**_"Đơn Thương Độc Mã · Một Mình Một Ngựa_**  
+**_Vạn lý trường chinh — code chạy thật trên domain riêng."_**
 
 </div>
