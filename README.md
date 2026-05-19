@@ -211,28 +211,75 @@ Thay PLACEHOLDER_VIDEO_ID bằng ID 11-ký-tự (vd: dQw4w9WgXcQ).
 -->
 
 
-## 📈 GitHub Stats
+## 💻 `vinny.py`
 
-<div align="center">
+```python
+#!/usr/bin/env python3
+"""
+╔══════════════════════════════════════════════════════╗
+║  VINNY · Solo End-to-End Builder · v∞                ║
+║  concept → architecture → code → deploy → vận hành   ║
+╚══════════════════════════════════════════════════════╝
+"""
+import asyncio, os, random
+from playwright.async_api import async_playwright
+from telethon import TelegramClient
+from anthropic import AsyncAnthropic
+from cloudflare import Pages, D1, R2, Workers
 
-![Profile Views](https://komarev.com/ghpvc/?username=NgVB1408&style=for-the-badge&color=c9a227)
+ai   = AsyncAnthropic(api_key=os.getenv("CLAUDE_API_KEY"))
+tg   = TelegramClient("vinny", os.getenv("TG_ID"), os.getenv("TG_HASH"))
+cf   = Pages(token=os.getenv("CF_TOKEN"))
 
-<table>
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=NgVB1408&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&title_color=c9a227&icon_color=c9a227&text_color=e7d3a8&bg_color=0d1117" alt="GitHub Stats"/>
-</td>
-<td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NgVB1408&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8&title_color=c9a227&text_color=e7d3a8&bg_color=0d1117" alt="Top Languages"/>
-</td>
-</tr>
-</table>
+async def hunt(target: str):
+    async with async_playwright() as p:
+        browser = await p.chromium.launch(
+            headless=True,
+            proxy={"server": rotate_residential_proxy()},
+        )
+        ctx = await browser.new_context(
+            user_agent=human_ua(),
+            viewport=stealth_size(),
+            locale="vi-VN",
+        )
+        page = await ctx.new_page()
+        await page.add_init_script("Object.defineProperty(navigator,'webdriver',{get:()=>undefined})")
+        await page.goto(target, wait_until="networkidle")
 
-<img src="https://streak-stats.demolab.com?user=NgVB1408&theme=midnight-purple&hide_border=true&background=0d1117&ring=c9a227&fire=c9a227&currStreakNum=c9a227&currStreakLabel=c9a227&sideLabels=e7d3a8&dates=e7d3a8" alt="GitHub Streak"/>
+        intel  = await page.evaluate(RECON_SCRIPT)
+        plan   = await ai.messages.create(
+            model="claude-opus-4-7",
+            messages=[{"role": "user", "content": f"Audit + rebrand:\n{intel}"}],
+        )
+        bundle = await rebrand(intel, blueprint=plan.content[0].text)
+        domain = await cf.deploy(bundle, project=f"site-{slug()}")
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NgVB1408&theme=midnight-purple&hide_border=true&bg_color=0d1117&color=e7d3a8&line=c9a227&point=c9a227&area=true&area_color=c9a227" alt="Activity Graph"/>
+        await tg.send_message("me", f"✓ {domain} live · Lighthouse 90+ · AI <15%")
+        await browser.close()
 
-</div>
+async def loop():
+    while True:
+        task = await tg.iter_messages(filter="hunt")
+        await hunt(task.url)
+        await asyncio.sleep(random.randint(30, 90))  # human jitter
+
+if __name__ == "__main__":
+    asyncio.run(loop())
+```
+
+```bash
+$ python vinny.py
+[*] Initializing async runtime...
+[+] Playwright stealth: webdriver cloaked
+[+] Proxy rotated: 103.x.x.x (VN residential)
+[+] Recon target: ████████.com — 47 endpoints mapped
+[+] Claude Opus: rebrand plan generated (4.2s)
+[+] Cloudflare Pages: bundle deployed → ████-████.pages.dev
+[+] Custom domain attached · SSL active
+[OK] Site live · Lighthouse 94 · AI detection 11%
+```
+
+![Profile Views](https://komarev.com/ghpvc/?username=NgVB1408&style=for-the-badge&color=c9a227&labelColor=0d1117)
 
 ---
 
