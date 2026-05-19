@@ -145,19 +145,19 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🌐 Website
-- Web bán hàng / đặt phòng / thương mại điện tử
+### 🌐 Website & E-commerce
+- Web bán hàng / đặt phòng / shop online
+- Landing page tốc độ cao, SEO chuẩn
 - Dashboard quản trị nội bộ
-- Landing page tốc độ cao
-- Plugin WordPress, Chrome Extension
+- Plugin WordPress + theme custom
 
 </td>
 <td width="50%" valign="top">
 
-### 🤖 Bot Telegram
-- Bot bán hàng, chăm sóc khách
-- Bot tự động chuyển tiếp tin nhắn
-- Bot quản lý kênh, anti-spam
+### 🤖 Bot Telegram & Discord
+- Bot bán hàng, chăm sóc khách 24/7
+- Bot chuyển tiếp / broadcast đa kênh
+- Bot quản lý cộng đồng, anti-spam
 - Bot tích hợp thanh toán
 
 </td>
@@ -166,39 +166,39 @@
 <td width="50%" valign="top">
 
 ### 🧠 Tích hợp AI
-- Chatbot AI trả lời khách 24/7
-- Tìm kiếm thông minh trên dữ liệu nội bộ
-- Tạo nội dung tự động cho website
-- Xử lý ảnh / video bằng AI
+- Chatbot AI trả lời khách tự nhiên
+- Tìm kiếm thông minh trên tài liệu nội bộ (RAG)
+- Tạo nội dung tự động cho web/social
+- Phân loại, gắn nhãn dữ liệu
 
 </td>
 <td width="50%" valign="top">
 
-### 💱 Bot tài chính / P2P
-- Bot mua bán USDT trên Binance/OKX/Bybit
-- Bot tự động đặt lệnh, anti-ban
-- Tích hợp ngân hàng VN, VietQR, MoMo
-- Quản lý đơn hàng, lịch sử giao dịch
+### 💱 Bot tài chính / Crypto
+- Bot P2P USDT (Binance/OKX/Bybit)
+- Bot tín hiệu, arbitrage, copy-trade
+- Anti-ban IP rotation, jitter người dùng
+- Tích hợp ngân hàng VN VietQR/MoMo
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🖥 Phần mềm desktop
-- App quản lý dữ liệu Windows / Mac
+### 🖥 Phần mềm Desktop
+- App quản lý Windows / Mac / Linux
 - Tool nội bộ cho công ty
-- Tự động hoá lặp đi lặp lại
-- Đóng gói file .exe gửi khách
+- Đóng gói file .exe portable
+- System tray, hotkey, screen capture
 
 </td>
 <td width="50%" valign="top">
 
-### 🔍 Bảo mật & audit
-- Kiểm tra lỗ hổng website
-- Audit code, phát hiện rò rỉ
-- Phân tích app Android
-- Khôi phục, giám sát hệ thống
+### 🔍 Bảo mật & Audit
+- Pentest website, app Android
+- Audit code, phát hiện rò rỉ thông tin
+- Reverse engineering APK / .exe
+- Giám sát hệ thống, backup, restore
 
 </td>
 </tr>
@@ -206,19 +206,119 @@
 <td width="50%" valign="top">
 
 ### 🚀 SEO tự động
-- Dán URL → ra site mới trong vài phút
-- Tự động deploy lên Cloudflare
-- Tối ưu Lighthouse 90+
-- Hệ thống nhiều site độc lập
+- Dán URL → site mới chạy trên Cloudflare
+- Đa site độc lập, không cross-link
+- Tối ưu Lighthouse 90+ điểm
+- Pipeline clone + rebrand tự động
 
 </td>
 <td width="50%" valign="top">
 
-### ⚙ Tự động hoá công việc
-- Crawl dữ liệu, scrape sản phẩm
-- Auto post bài lên Facebook / TikTok
-- Tự động điền form, đặt vé, đặt phòng
+### ⚙ Tự động hoá quy trình (RPA)
+- Auto fill form, auto submit
+- Đặt vé, đặt phòng, săn sale
+- Auto post Facebook / TikTok / Threads
 - Kết nối nhiều API thành 1 luồng
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📱 Chrome Extension
+- Tự động giải captcha, click tự động
+- Scrape dữ liệu từ trang đang xem
+- Inject UI tuỳ biến (sniper, alert)
+- MV3 chuẩn Chrome Web Store
+
+</td>
+<td width="50%" valign="top">
+
+### 🛒 Tự động hoá E-commerce
+- Bot Shopee / TikTok Shop / Lazada
+- Đăng sản phẩm, sync giá hàng loạt
+- Lấy đơn, cập nhật trạng thái
+- Tracking đơn, in mã vận chuyển
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎥 Xử lý ảnh & video AI
+- Enhance ảnh BĐS / sản phẩm (AI)
+- Xoá watermark / logo / vật thể
+- Sky replacement, perspective fix
+- Voice cloning, text-to-speech Việt
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 Dashboard real-time
+- Quản trị đơn hàng, doanh thu, KPI
+- SSE / WebSocket streaming
+- Báo cáo PDF tự động, gửi mail/Telegram
+- Phân quyền user, audit log
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏦 Thanh toán Việt Nam
+- Tích hợp VietQR (mọi ngân hàng)
+- SePay webhook auto-confirm
+- MoMo, ZaloPay, VNPay
+- Banking API VCB / MB / TPB / BIDV
+
+</td>
+<td width="50%" valign="top">
+
+### 📞 Voicebot / IVR / TTS
+- Tổng đài AI trả lời tự động
+- TTS tiếng Việt giọng tự nhiên
+- Whisper STT chuyển voice → text
+- Call automation, robot-call
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📦 Logistics / Vận đơn
+- Tracking đơn hàng đa hãng (GHN/J&T/Viettel)
+- In mã vận chuyển, label tự động
+- Tự động hoá kho, mã QR sản phẩm
+- Đồng bộ inventory đa kênh
+
+</td>
+<td width="50%" valign="top">
+
+### 🔄 Tích hợp API & Webhook
+- Kết nối 2+ hệ thống thành 1 luồng
+- Middleware xử lý event real-time
+- Cron job, scheduler, retry budget
+- Migration data đa nguồn
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎯 Marketing automation
+- Email marketing, drip campaign
+- Auto-comment, auto-DM social
+- Lead capture + CRM lite
+- Funnel tracking, A/B test
+
+</td>
+<td width="50%" valign="top">
+
+### 🏗 Hạ tầng & DevOps
+- Deploy Cloudflare Pages/Workers/D1/R2
+- Docker, Linux VPS, reverse proxy
+- CI/CD GitHub Actions tự động
+- Cloudflare Tunnel, DNS, SSL
 
 </td>
 </tr>
