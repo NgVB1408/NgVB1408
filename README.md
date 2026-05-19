@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="380" alt="Vinny đang code"/>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" alt="Vinny đang code" style="max-width:900px"/>
 
 # Vinny Nguyễn
 
@@ -137,43 +137,92 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="line"/>
 
-## 🚀 Mảng dự án có thể nhận
+<h2 align="center">🚀 Mảng dự án có thể nhận</h2>
 
 <div align="center">
 
-```
-┌─ WEB PROJECTS ──────────────┐  ┌─ DESKTOP APPS ──────────────┐
-│ • Web app full-stack        │  │ • PyQt5 / Qt6 GUI           │
-│ • Next.js · SvelteKit SPA   │  │ • Tkinter tool nội bộ       │
-│ • WordPress + custom theme  │  │ • Bundle .exe PyInstaller   │
-│ • Chrome Extension MV3      │  │ • Cross-platform support    │
-│ • Realtime + SSE + WebSocket│  │ • System tray · hotkey      │
-└─────────────────────────────┘  └─────────────────────────────┘
+<table>
+<tr>
+<td width="50%" valign="top">
 
-┌─ AUTOMATION & BOTS ─────────┐  ┌─ AI SOLUTIONS ──────────────┐
-│ • Web scraping + crawling   │  │ • LLM integration multi-API │
-│ • Bot Telegram + Discord    │  │ • RAG search trên corpus    │
-│ • RPA / form automation     │  │ • Computer vision · OCR     │
-│ • Social media bot          │  │ • Voice cloning · Whisper   │
-│ • API integration sâu       │  │ • AI image enhance pipeline │
-└─────────────────────────────┘  └─────────────────────────────┘
+### 🌐 Website
+- Web bán hàng / đặt phòng / thương mại điện tử
+- Dashboard quản trị nội bộ
+- Landing page tốc độ cao
+- Plugin WordPress, Chrome Extension
 
-┌─ SECURITY ──────────────────┐  ┌─ DEVOPS ────────────────────┐
-│ • Web app pentest           │  │ • Docker containerization   │
-│ • Android security audit    │  │ • Linux server admin        │
-│ • Reverse engineering       │  │ • Cloudflare Tunnel · DNS   │
-│ • Vulnerability assessment  │  │ • CI/CD GitHub Actions      │
-│ • Code audit · supply chain │  │ • Database backup · restore │
-└─────────────────────────────┘  └─────────────────────────────┘
+</td>
+<td width="50%" valign="top">
 
-┌─ FINTECH / P2P ─────────────┐  ┌─ SEO AUTOMATION ────────────┐
-│ • Bot điều phối P2P USDT    │  │ • Multi-agent site builder  │
-│ • Anti-ban IP + jitter      │  │ • URL → site live vài phút  │
-│ • Auto-take · auto-withdraw │  │ • Lighthouse 90+ · AI < 15% │
-│ • Payment VN tích hợp sâu   │  │ • Clone + rebrand pipeline  │
-│ • Booking / order lifecycle │  │ • Hạ tầng độc lập per site  │
-└─────────────────────────────┘  └─────────────────────────────┘
-```
+### 🤖 Bot Telegram
+- Bot bán hàng, chăm sóc khách
+- Bot tự động chuyển tiếp tin nhắn
+- Bot quản lý kênh, anti-spam
+- Bot tích hợp thanh toán
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 Tích hợp AI
+- Chatbot AI trả lời khách 24/7
+- Tìm kiếm thông minh trên dữ liệu nội bộ
+- Tạo nội dung tự động cho website
+- Xử lý ảnh / video bằng AI
+
+</td>
+<td width="50%" valign="top">
+
+### 💱 Bot tài chính / P2P
+- Bot mua bán USDT trên Binance/OKX/Bybit
+- Bot tự động đặt lệnh, anti-ban
+- Tích hợp ngân hàng VN, VietQR, MoMo
+- Quản lý đơn hàng, lịch sử giao dịch
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🖥 Phần mềm desktop
+- App quản lý dữ liệu Windows / Mac
+- Tool nội bộ cho công ty
+- Tự động hoá lặp đi lặp lại
+- Đóng gói file .exe gửi khách
+
+</td>
+<td width="50%" valign="top">
+
+### 🔍 Bảo mật & audit
+- Kiểm tra lỗ hổng website
+- Audit code, phát hiện rò rỉ
+- Phân tích app Android
+- Khôi phục, giám sát hệ thống
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🚀 SEO tự động
+- Dán URL → ra site mới trong vài phút
+- Tự động deploy lên Cloudflare
+- Tối ưu Lighthouse 90+
+- Hệ thống nhiều site độc lập
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙ Tự động hoá công việc
+- Crawl dữ liệu, scrape sản phẩm
+- Auto post bài lên Facebook / TikTok
+- Tự động điền form, đặt vé, đặt phòng
+- Kết nối nhiều API thành 1 luồng
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -195,14 +244,6 @@
 <a href="https://github.com/NgVB1408">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NgVB1408&layout=compact&theme=radical&hide_border=true&langs_count=10" height="180" alt="Top Languages"/>
 </a>
-
-</div>
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=NgVB1408&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1&column=7)](https://github.com/NgVB1408)
 
 </div>
 
