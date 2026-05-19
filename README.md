@@ -14,12 +14,49 @@
 
 ## Mình làm gì
 
-Build sản phẩm production — bot tự động hoá, web app, hệ thống tích hợp AI, công cụ scraping/automation, desktop app, deploy hạ tầng.
+Build sản phẩm production — solo end-to-end từ kiến trúc → code → deploy → vận hành.
 
-Hầu hết là solo end-to-end: concept → kiến trúc → code → deploy → vận hành.  
 Khách trả tiền, hệ thống chạy thật trên domain riêng, không phải demo.
 
-Một phần repo public ở đây. Phần lớn closed-source phía sau, vận hành cho khách.
+---
+
+## 🎯 Có thể giúp bạn gì
+
+**🤖 Tự động hoá**
+- Bot Telegram đa kênh — account manager, forward, broadcast, anti-spam, anti-ban
+- Scraping + crawling — Playwright, captcha bypass, proxy rotation, jitter human-like
+- RPA / desktop automation — auto fill form, auto submit, auto post
+
+**🌐 Web app full-stack**
+- Booking system, e-commerce, dashboard quản trị
+- Tích hợp payment Việt Nam — VietQR, SePay, MoMo, Banking API (VCB, MB, TPB)
+- Deploy Cloudflare Pages + D1 + R2 + Workers (free tier production-grade)
+
+**🧠 Tích hợp AI**
+- Chatbot AI multi-persona (OpenAI, Claude, Gemini, Ollama self-host)
+- RAG search trên corpus riêng (ChromaDB, Whisper STT cho voice)
+- Content automation pipeline (gen + audit + publish)
+- AI image enhancement (Stable Diffusion, ESRGAN)
+
+**📱 Bot fintech / P2P**
+- Telegram bot điều phối P2P merchant (Binance/OKX/Bybit)
+- Auto-take, auto-withdraw API-first
+- Anti-ban: IP consistency, jitter, human-hours, bank rotation
+
+**🖥 Desktop app**
+- PyQt5 / Electron GUI cho công cụ nội bộ
+- PyInstaller bundle .exe portable
+- System tray, hotkey, file watcher, screen capture
+
+**🔍 Security tooling**
+- Audit / recon dashboard cho web property
+- Phân tích bảo mật mobile app, Android reverse
+- Captcha solver, Active Directory automation (authorized)
+
+**🚀 SEO automation**
+- Multi-agent pipeline: URL vào → site mới live trong vài phút
+- Lighthouse 90+, AI-detection < 15%
+- Clone + rebrand + deploy hạ tầng độc lập
 
 ---
 
@@ -31,49 +68,25 @@ Một phần repo public ở đây. Phần lớn closed-source phía sau, vận 
 
 </div>
 
-> _Thay `PLACEHOLDER_VIDEO_ID` bằng ID YouTube khi video sẵn sàng (vd `dQw4w9WgXcQ`)._
+> _Thay `PLACEHOLDER_VIDEO_ID` bằng ID YouTube khi video sẵn sàng._
 
 ---
 
-## 🛠 Stack
+## 🛠 Stack hay dùng
 
-**Backend & Automation** Python · FastAPI · Node.js · Telethon · Playwright · asyncio  
-**Frontend** Next.js · SvelteKit · React · TypeScript · Tailwind · shadcn/ui  
-**AI** OpenAI · Anthropic Claude · Google Gemini · Ollama (self-host) · ChromaDB RAG · Whisper STT  
-**Infra** Cloudflare Pages + Workers + D1 + R2 · Docker · PostgreSQL · NATS · MinIO · Temporal  
+**Backend** Python · FastAPI · Node.js · Telethon · Playwright  
+**Frontend** Next.js · SvelteKit · React · TypeScript · Tailwind  
+**AI** OpenAI · Claude · Gemini · Ollama · ChromaDB · Whisper  
+**Infra** Cloudflare (Pages, Workers, D1, R2) · Docker · PostgreSQL · NATS · Temporal  
 **Desktop** PyQt5 · Electron · PyInstaller  
-**Payment VN** VietQR · SePay · MoMo · Banking API (VCB, MB, TPB)
-
----
-
-## ✨ Public projects
-
-| Repo | |
-|---|---|
-| [seo-empire](https://github.com/NgVB1408/seo-empire) | Multi-agent SEO automation — URL vào, site mới live trên Cloudflare, 10 AI agent phối hợp qua NATS bus |
-| [hydra-desk](https://github.com/NgVB1408/hydra-desk) | Telegram P2P merchant desk — điều phối order USDT/VND trên 3 sàn lớn, anti-ban, auto-take/withdraw |
-| [autoenhance](https://github.com/NgVB1408/autoenhance) | AI enhance ảnh bất động sản — self-host open-source clone của autoenhance.ai |
-| [adtk-suite](https://github.com/NgVB1408/adtk-suite) | Security audit launcher — gộp 10+ tool vào 1 GUI duy nhất |
-
-Closed-source: bot vận hành, fintech automation, hệ thống nội bộ cho khách — không public.
-
----
-
-## 📊 Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NgVB1408&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NgVB1408&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=00000000)
-
-</div>
+**Payment VN** VietQR · SePay · MoMo · Banking API
 
 ---
 
 ## 💬 Hợp tác
 
 - 💬 **[Telegram @Leader8388](https://t.me/leader8388)** — kênh nhanh nhất
-- ✉️ **ngvanbitkg1@gmail.com** — cho project formal hoặc gửi tài liệu
+- ✉️ **ngvanbitkg1@gmail.com** — cho project formal
 
 Việt Nam · UTC+7 · remote toàn cầu
 
