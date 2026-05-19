@@ -14,6 +14,11 @@
 
 ### ⚔ Đơn Thương Độc Mã · 🐎 Một Mình Một Ngựa · 🇻🇳 Việt Nam
 
+![Projects](https://img.shields.io/badge/D%E1%BB%B0_%C3%81N-200%2B-c9a227?style=for-the-badge&labelColor=0d1117)
+![Campaigns](https://img.shields.io/badge/CHI%E1%BA%BEN_D%E1%BB%8ACH-100%2B-c9a227?style=for-the-badge&labelColor=0d1117)
+![Solo](https://img.shields.io/badge/SOLO-END--TO--END-c9a227?style=for-the-badge&labelColor=0d1117)
+![Stack](https://img.shields.io/badge/FULL_STACK-%C2%B7_AI_%C2%B7_AUTOMATION_%C2%B7_SECURITY-c9a227?style=for-the-badge&labelColor=0d1117)
+
 </div>
 
 ---
@@ -190,6 +195,10 @@
 
 ---
 
+<!--
+🎥 DEMO VIDEO — uncomment khi có video YouTube/Loom thật.
+Thay PLACEHOLDER_VIDEO_ID bằng ID 11-ký-tự (vd: dQw4w9WgXcQ).
+
 ## 🎥 Demo
 
 <div align="center">
@@ -198,9 +207,9 @@
 
 </div>
 
-> _Thay `PLACEHOLDER_VIDEO_ID` bằng ID YouTube khi video sẵn sàng._
-
 ---
+-->
+
 
 ## 📈 GitHub Stats
 
@@ -208,7 +217,20 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=NgVB1408&style=for-the-badge&color=c9a227)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NgVB1408&layout=compact&theme=dark&title_color=c9a227&bg_color=0d1117)
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=NgVB1408&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&title_color=c9a227&icon_color=c9a227&text_color=e7d3a8&bg_color=0d1117" alt="GitHub Stats"/>
+</td>
+<td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NgVB1408&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8&title_color=c9a227&text_color=e7d3a8&bg_color=0d1117" alt="Top Languages"/>
+</td>
+</tr>
+</table>
+
+<img src="https://streak-stats.demolab.com?user=NgVB1408&theme=midnight-purple&hide_border=true&background=0d1117&ring=c9a227&fire=c9a227&currStreakNum=c9a227&currStreakLabel=c9a227&sideLabels=e7d3a8&dates=e7d3a8" alt="GitHub Streak"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NgVB1408&theme=midnight-purple&hide_border=true&bg_color=0d1117&color=e7d3a8&line=c9a227&point=c9a227&area=true&area_color=c9a227" alt="Activity Graph"/>
 
 </div>
 
